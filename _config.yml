@@ -2,28 +2,14 @@ title: "EcoClimLab"
 description: "Forest Ecology and Climate Lab"
 
 url: "https://ecoclimlab.github.io"
-baseurl: "" # Do not change
+baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-author:
-  name: "EcoClimLab"
-  bio: "Forest ecology and climate change research."
-  location: "Smithsonian"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/ecoclimlab"
-
-# Display settings
-theme_settings:
-  header:
-    image: false
-  footer:
-    links:
-      - label: "About"
-        url: "/about/"
+navigation:
+  - title: "About"
+    url: /about/
