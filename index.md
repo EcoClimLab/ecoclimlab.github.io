@@ -6,6 +6,4 @@ permalink: /
 
 Welcome to the Forest Ecology and Climate Lab! 
 
-We study forest dynamics, climate change, and disturbance from local to global scales. 
-
-The lab is led by Dr. Kristina J. Anderson-Teixeira.
+This page is currently under development. The current site is [here](https://sites.google.com/site/forestecoclimlab/home).
