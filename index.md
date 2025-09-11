@@ -1,6 +1,6 @@
 ---
-layout: splash
-title: "Welcome to EcoClimLab"
+layout: home
+title: "EcoClimLab"
 permalink: /
 ---
 

@@ -1,15 +1,31 @@
 title: "EcoClimLab"
 description: "Forest Ecology and Climate Lab"
-
 url: "https://ecoclimlab.github.io"
-baseurl: ""
+baseurl: ""  # User/organization site = empty
 
-remote_theme: mmistakes/minimal-mistakes
+# Use Minimal Mistakes as a remote theme
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
-  - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-include-cache
 
+# Optional: Author block
+author:
+  name: "EcoClimLab"
+  avatar: "/assets/images/avatar.png"
+  bio: "Forest ecology and climate change research."
+  location: "Your University"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/ecoclimlab"
+
+# Optional: Navigation menu
 navigation:
   - title: "About"
     url: /about/
+
+# Build settings (optional)
+markdown: kramdown
+highlighter: rouge
