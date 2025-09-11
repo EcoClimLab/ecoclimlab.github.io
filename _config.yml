@@ -1,31 +1,61 @@
 title: "EcoClimLab"
 description: "Forest Ecology and Climate Lab"
 url: "https://ecoclimlab.github.io"
-baseurl: ""  # User/organization site = empty
+baseurl: ""  # important: empty for user/organization sites
 
-# Use Minimal Mistakes as a remote theme
+# Use the Minimal Mistakes remote theme
 remote_theme: "mmistakes/minimal-mistakes"
 
+# Required plugins for GitHub Pages + theme
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-# Optional: Author block
+# Theme settings
+locale: "en-US"
+markdown: kramdown
+highlighter: rouge
+
+# Author info (optional)
 author:
   name: "EcoClimLab"
-  avatar: "/assets/images/avatar.png"
-  bio: "Forest ecology and climate change research."
+  avatar: "/assets/images/avatar.png"  # optional, place image in assets/images/
+  bio: "Forest ecology and climate change research group."
   location: "Your University"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/ecoclimlab"
 
-# Optional: Navigation menu
+# ✅ Navigation bar
 navigation:
   - title: "About"
     url: /about/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
+  # Add more as needed
 
-# Build settings (optional)
-markdown: kramdown
-highlighter: rouge
+# ✅ Disable post index on homepage
+show_excerpts: false
+paginate: 0
+
+# ✅ Remove footer feed link
+footer:
+  links: []  # ← this removes RSS/feed links
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: false
+
+# Don’t show posts unless you create them
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:title/
