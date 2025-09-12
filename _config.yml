@@ -316,4 +316,11 @@ defaults:
       share: true
       related: true
 
-
+# Navigation
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
