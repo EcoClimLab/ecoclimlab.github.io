@@ -1,8 +1,14 @@
+
 ---
-layout: home
+layout: splash
 title: "ForestGEO Ecosystems & Climate Lab"
 permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/forest_header.jpg  # header image
 ---
+
 
 Welcome to the Forest Ecology and Climate Lab! 
 
