@@ -4,18 +4,16 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# FORESTGEO ECOSYSTEMS & CLIMATE LAB PUBLICATIONS 
-<!--
+The following is a list of publications by ForestGEO Ecosystem & Climate Lab members (indicated in bold). 
+*This differs somewhat from the complete list of publications by lab PI K.J. Anderson-Teixeira, which can be found on [Google Scholar](https://scholar.google.com/citations?user=ePcFwr4AAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-8461-9713), or [Smithsonian Profiles](https://profiles.si.edu/display/nTeixeiraK9252012).* 
 
-Bold indicates lab members and affiliates. 
-Please see Data & Resources for corresponding data publications and In the News for press releases.-->
 
 ### In review/ revision (pre-prints available)
 
-**Anujan, Krishna**, McMahon, Sean, Bunyavejchewin, Sarayudh, Davies, Stuart, Muller-Landau, Helene, Pongpattananurak, Nantachai, **Anderson-Teixeira, Kristina**. 2025. Drought response is not a species trait: Tropical tree drought sensitivity is shaped by drought characteristics, species adaptations, and individual microenvironments. Preprint, https://doi.org/10.22541/au.175136629.97651139/v1
+**Anujan, Krishna**, McMahon, Sean, Bunyavejchewin, Sarayudh, Davies, Stuart, Muller-Landau, Helene, Pongpattananurak, Nantachai, **Anderson-Teixeira, Kristina**. 2025. [Drought response is not a species trait: Tropical tree drought sensitivity is shaped by drought characteristics, species adaptations, and individual microenvironments](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.22541%2Fau.175136629.97651139%2Fv1&data=05%7C02%7CTeixeiraK%40si.edu%7C88fb4e71a7b64b9c321e08dde62bdbad%7C989b5e2a14e44efe93b78cdd5fc5d11c%7C0%7C0%7C638919798245835566%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Wj60X5%2BdOSINMfQV98uxRNxRfq8qVxkSOEm5zIIJd24%3D&reserved=0). Preprint, DOI:10.22541/au.175136629.97651139/v1
 In press 	
 
-Magee, Lukas; Smith, Daniel; Bauman, David; Ke, Po-Ju; Muller-Landau, Helene; Anderson-Teixeira, Kristina; Shue, Jessica; Orwig, David; McMahon, Sean; Bohlman, Stephanie; Crandall, Raelene; Weinstein, Ben; Marconi, Sergio; Lichstein, Jeremy; Gillooly, James; Bagchi, Robert; LaManna, Joseph; Johnson, Daniel (in press). Memories of trees past: coexistence implications of legacy conspecific density dependence. Ecology Letters. DOI: 10.1111/ele.70197	 
+**Magee, Lukas**; Smith, Daniel; Bauman, David; Ke, Po-Ju; Muller-Landau, Helene; **Anderson-Teixeira, Kristina**; Shue, Jessica; Orwig, David; McMahon, Sean; Bohlman, Stephanie; Crandall, Raelene; Weinstein, Ben; Marconi, Sergio; Lichstein, Jeremy; Gillooly, James; Bagchi, Robert; LaManna, Joseph; Johnson, Daniel (in press). [Memories of trees past: coexistence implications of legacy conspecific density dependence](). *Ecology Letters*. DOI: 10.1111/ele.70197	 
 
 ### 2025
 
@@ -210,3 +208,4 @@ Anderson-Teixeira, K.J., Wang, M. M. H., McGarvey, J.C., and LeBauer, D.S. (2016
 ### 2013
 
 **Anderson-Teixeira, KJ**, Miller, AD, Mohan, JE, Hudiburg, T, Duval, BD, DeLucia, EH (2013). [Altered dynamics of forest recovery under a changing climate](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12194/abstract). *Global Change Biology*, 19, 2001-2021. DOI: 10.1111/gcb.12194 
+
