@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "People"
-permalink: /people/
+title: "Visit / Join"
+permalink: /visit-join/
 header:
   image: /assets/images/forest-header.jpg  # header image
 ---

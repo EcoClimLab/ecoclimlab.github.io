@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "People"
-permalink: /people/
+title: "Resources"
+permalink: /resources/
 header:
   image: /assets/images/forest-header.jpg  # header image
 ---

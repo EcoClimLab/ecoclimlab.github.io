@@ -3,6 +3,8 @@ layout: single
 classes: wide
 title: "Publications"
 permalink: /publications/
+header:
+  image: /assets/images/forest-header.jpg  # header image
 ---
 
 The following is a list of publications by ForestGEO Ecosystem & Climate Lab members (indicated in bold). 
