@@ -1,15 +1,13 @@
 # main links
 main:
-  - title: "Home"
-    url: https://ecoclimlab.github.io
   - title: "About"
     url: /about/
   - title: "People"
     url: /people/
   - title: "Research"
     url: /research/
-  - title: "Data & Resources"
-    url: /data-resources/
+  - title: "Resources"
+    url: /resources/
   - title: "Publications"
     url: /publications/
   - title: "Visit / Join us"
