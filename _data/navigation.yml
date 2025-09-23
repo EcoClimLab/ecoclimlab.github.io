@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "ForestGEO Ecosystems & Climate Lab"
+- title: "ForestGEO Ecosystems & Climate Lab"
     url: https://ecoclimlab.github.io
 - title: "About"
     url: /about/
- - title: "People"
+- title: "People"
     url: /people/
- - title: "Publications"
+- title: "Publications"
     url: /publications/
