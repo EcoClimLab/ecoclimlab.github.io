@@ -1,12 +1,12 @@
 
 ---
-layout: splash
 title: "ForestGEO Ecosystems & Climate Lab"
+layout: splash
 permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/forest_header.jpg  # header image
+  overlay_image: /assets/images/forest-header.jpg  # header image
 ---
 
 
