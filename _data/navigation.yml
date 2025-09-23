@@ -10,5 +10,7 @@ main:
     url: /resources/
   - title: "Publications"
     url: /publications/
+  - title: "News"
+    url: /news/
   - title: "Visit / Join"
     url: /visit-join/
