@@ -1,4 +1,3 @@
-
 ---
 title: "ForestGEO Ecosystems & Climate Lab"
 layout: splash
