@@ -9,21 +9,21 @@ feature_row:
   - image_path: /assets/images/feature.jpg
     alt: "News"
     title: "News"
-    excerpt: "Latest accomplishments & news"
+    excerpt: "Latest accomplishments & news."
     url: "/news/"
     btn_label: "Get the latest!"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature.jpg
     alt: "Research"
     title: "Research"
-    excerpt: "Current & past projects"
+    excerpt: "Current & past projects."
     url: "/research/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature.jpg
     alt: "Resources"
     title: "Resources"
-    excerpt: "Data, code, & GitHub"
+    excerpt: "Data, code, & GitHub."
     url: "/resources/"
     btn_label: "Explore Resources"
     btn_class: "btn--primary"
@@ -40,7 +40,7 @@ feature_row2:
   - image_path: /assets/images/feature.jpg
     alt: "People"
     title: "People"
-    excerpt: "Meet our talented research team."
+    excerpt: "Meet our incredible research team."
     url: "/people/"
     btn_label: "Meet the Team"
     btn_class: "btn--primary"
