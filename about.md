@@ -23,7 +23,7 @@ feature_row:
     alt: "Smithsonian Tropical Research Institute (STRI)"
     excerpt: ""
     url: "https://stri.si.edu/"
-    btn_label: "  STRI  Homepage"
+    btn_label: "  STRI        Homepage"
     btn_class: "btn--primary"
 ---
 
