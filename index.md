@@ -4,15 +4,22 @@ layout: splash
 permalink: /
 header:
   image: /assets/images/forest-header.jpg  # header image
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  cta_label: "Learn More"
+  cta_url: "/about/"
+  caption: "Researching forest ecosystems in an era of global change"
+intro:
+  - excerpt: 'We investigate how forest ecosystems respond to climate ...'
 
   
 feature_row:
   - image_path: /assets/images/feature.jpg
     alt: "News"
     title: "News"
-    excerpt: "Latest happenings and news articles"
+    excerpt: "Latest accomplishments and news"
     url: "/news/"
-    btn_label: "Explore"
+    btn_label: "Get the latest!"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature.jpg
     alt: "Research"
@@ -24,7 +31,7 @@ feature_row:
   - image_path: /assets/images/feature.jpg
     alt: "Resources"
     title: "Resources"
-    excerpt: "Data, code, and other resources"
+    excerpt: "Data, code, and GitHub"
     url: "/resources/"
     btn_label: "Explore Resources"
     btn_class: "btn--primary"
@@ -54,11 +61,12 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
+**Welcome to the Forest Ecology and Climate Lab** 
+
+This page is currently under development. The current site is [here](https://sites.google.com/site/forestecoclimlab/home).
+
 {% include feature_row id="feature_row" %}
 {% include feature_row id="feature_row2" %}
 
 
-Welcome to the Forest Ecology and Climate Lab! 
-
-This page is currently under development. The current site is [here](https://sites.google.com/site/forestecoclimlab/home).
 
