@@ -4,10 +4,6 @@ layout: splash
 permalink: /
 header:
   image: /assets/images/forest-header.jpg  # header image
-  cta_label: "Learn More"
-  cta_url: "/about/"
-  caption: "Researching forest ecosystems in an era of global change"
-
   
 feature_row:
   - image_path: /assets/images/feature.jpg
@@ -57,7 +53,7 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
-**Welcome to the Forest Ecology and Climate Lab** 
+# **Welcome to the Forest Ecology and Climate Lab!** 
 
 This page is currently under development. The current site is [here](https://sites.google.com/site/forestecoclimlab/home).
 
