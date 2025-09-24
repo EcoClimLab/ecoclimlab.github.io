@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "About"
 permalink: /about/
 header:
@@ -9,7 +9,7 @@ feature_row:
   - image_path: /assets/images/feature.jpg
     alt: "ForestGEO"
     title: "ForestGEO"
-    excerpt: "Forest Global Earth Observatory (ForestGEO"
+    excerpt: "Forest Global Earth Observatory (ForestGEO)"
     url: "https://forestgeo.si.edu"
     btn_label: "ForestGEO"
     btn_class: "btn--primary"
@@ -28,6 +28,7 @@ feature_row:
     btn_label: "STRI website"
     btn_class: "btn--primary"
 ---
+![Lab members at a ForestGEO site](/assets/images/tree-painting.jpg)
 
 The ForestGEO Ecosystems & Climate Lab is part of the [Forest Global Earth Observatory (ForestGEO)](https://forestgeo.si.edu), a global network of forest research plots and scientists dedicated to the study of forest function and diversity. 
 We are based at [Smithsonian's National Zoo and Conservation Biology Institute (NZCBI)](https://www.google.com/url) in Front Royal, Virginia, USA
