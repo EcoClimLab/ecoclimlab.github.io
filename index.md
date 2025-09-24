@@ -6,7 +6,7 @@ header:
   image: /assets/images/forest-header.jpg  # header image
 
   
-  feature_row:
+feature_row:
   - image_path: /assets/images/feature.jpg
     alt: "News"
     title: "News"
@@ -49,7 +49,7 @@ feature_row2:
     alt: "Visit / Join"
     title: "Visit / Join"
     excerpt: "Interested in visiting or joining the lab?"
-    url: "/join/"
+    url: "/visit-join/"
     btn_label: "Visit / Join"
     btn_class: "btn--primary"
 ---
