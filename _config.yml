@@ -131,6 +131,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kristina-anderson-teixeira-843a9930"
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-cloud" # Bluesky doesn't have a Font Awesome icon yet
+      url: "https://bsky.app/profile/k-andersonteixeira.bsky.social"
     - label: "GitHub: EcoClimLab"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EcoClimLab"
@@ -143,12 +149,6 @@ footer:
     - label: "GitHub: ForC"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ForC-db"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kristina-anderson-teixeira-843a9930"
-    - label: "Bluesky"
-      icon: "fas fa-fw fa-cloud" # Bluesky doesn't have a Font Awesome icon yet
-      url: "https://bsky.app/profile/k-andersonteixeira.bsky.social"
   since: "2013"
 
 
