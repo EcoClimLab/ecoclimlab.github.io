@@ -52,6 +52,10 @@ feature_row2:
     btn_label: "Visit / Join"
     btn_class: "btn--primary"
 ---
+<div style="text-align: center; color: white; margin-top: -300px;">
+  <h1 style="font-size: 3em;">ForestGEO Ecosystems & Climate Lab</h1>
+  <p style="font-size: 1.2em;">Exploring forest ecosystems in a changing climate</p>
+</div>
 
 # **Welcome to the Forest Ecology and Climate Lab!** 
 
