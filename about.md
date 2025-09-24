@@ -6,26 +6,20 @@ header:
   image: /assets/images/forest-header.jpg  # header image
   
 feature_row:
-  - image_path: /assets/images/feature.jpg
-    alt: "ForestGEO"
-    title: "ForestGEO"
-    excerpt: "Forest Global Earth Observatory (ForestGEO)"
+  - image_path: /assets/images/forestgeo-logo.jpg
+    alt: "Forest Global Earth Observatory (ForestGEO)"
     url: "https://forestgeo.si.edu"
     btn_label: "ForestGEO"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature.jpg
-    alt: "NZCBI"
-    title: "NZCBI"
-    excerpt: "Smithsonian's National Zoo & Conservation Biology Institute (NZCBI)"
+  - image_path: /assets/images/forestgeo-logo.jpg
+    alt: "Smithsonian's National Zoo & Conservation Biology Institute (NZCBI)"
     url: "https://nationalzoo.si.edu/conservation"
     btn_label: "NZCBI Conservation"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature.jpg
-    alt: "STRI"
-    title: "STRI"
-    excerpt: "Smithsonian Tropical Research Institute (STRI)"
+  - image_path: /assets/images/stri-logo.jpg
+    alt: "Smithsonian Tropical Research Institute (STRI)"
     url: "https://stri.si.edu/"
-    btn_label: "STRI website"
+    btn_label: "STRI"
     btn_class: "btn--primary"
 ---
 
@@ -39,3 +33,4 @@ Dr. Kristina J. Anderson-Teixeira leads the lab and the [ForestGEO Ecosystems & 
 {% include feature_row id="feature_row" %}
 
 ![watercolor](/assets/images/tree-painting.jpg)
+*watercolor by PI Kristina J. Anderson-Teixeira*
