@@ -41,14 +41,14 @@ feature_row2:
     url: "/publications/"
     btn_label: "View Publications"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature.jpg
+  - image_path: /assets/images/census-team.jpg
     alt: "People"
     title: "People"
     excerpt: "Meet our incredible research team."
     url: "/people/"
     btn_label: "Meet the Team"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature.jpg
+  - image_path: /assets/images/scbi-aerial.jpg
     alt: "Visit / Join"
     title: "Visit / Join"
     excerpt: "Interested in visiting or joining the lab?"
