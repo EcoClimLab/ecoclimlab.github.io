@@ -4,13 +4,7 @@ layout: splash
 permalink: /
 header:
   image: /assets/images/forest-header.jpg  # header image
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  cta_label: "Learn More"
-  cta_url: "/about/"
-  caption: "Researching forest ecosystems in an era of global change"
-intro:
-  - excerpt: 'We investigate how forest ecosystems ....'
+
   
   feature_row:
   - image_path: /assets/images/feature.jpg
