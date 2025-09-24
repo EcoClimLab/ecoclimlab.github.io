@@ -11,7 +11,7 @@ feature_row:
     alt: "Forest Global Earth Observatory (ForestGEO)"
     excerpt: ""
     url: "https://forestgeo.si.edu"
-    btn_label: "Explore ForestGEO Website"
+    btn_label: "Explore ForestGEO"
     btn_class: "btn--primary"
   - image_path: /assets/images/nzcbi-logo.jpg
     alt: "Smithsonian's National Zoo & Conservation Biology Institute (NZCBI)"
