@@ -9,19 +9,19 @@ header:
 feature_row:
   - image_path: /assets/images/forestgeo-logo.jpg
     alt: "Forest Global Earth Observatory (ForestGEO)"
-    excerpt: ""
+    excerpt: "-"
     url: "https://forestgeo.si.edu"
     btn_label: "ForestGEO Homepage"
     btn_class: "btn--primary"
   - image_path: /assets/images/nzcbi-logo.jpg
     alt: "Smithsonian's National Zoo & Conservation Biology Institute (NZCBI)"
-    excerpt: ""
+    excerpt: "-"
     url: "https://nationalzoo.si.edu/conservation"
     btn_label: "NZCBI Conservation"
     btn_class: "btn--primary"
   - image_path: /assets/images/stri-logo.jpg
     alt: "Smithsonian Tropical Research Institute (STRI)"
-    excerpt: ""
+    excerpt: "-"
     url: "https://stri.si.edu/"
     btn_label: "  STRI        Homepage"
     btn_class: "btn--primary"
