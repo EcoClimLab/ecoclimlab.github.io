@@ -61,5 +61,7 @@ This page is currently under development. The current site is [here](https://sit
 {% include feature_row id="feature_row" %}
 {% include feature_row id="feature_row2" %}
 
+![watercolor](/assets/images/tree-painting.jpg)
+
 
 

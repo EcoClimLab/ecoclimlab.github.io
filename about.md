@@ -28,7 +28,7 @@ feature_row:
     btn_label: "STRI website"
     btn_class: "btn--primary"
 ---
-![watercolor](/assets/images/tree-painting.jpg)
+
 
 The ForestGEO Ecosystems & Climate Lab is part of the [Forest Global Earth Observatory (ForestGEO)](https://forestgeo.si.edu), a global network of forest research plots and scientists dedicated to the study of forest function and diversity. 
 We are based at [Smithsonian's National Zoo and Conservation Biology Institute (NZCBI)](https://www.google.com/url) in Front Royal, Virginia, USA
@@ -37,3 +37,5 @@ and are also affiliated with the [Smithsonian Tropical Research Institute (STRI)
 Dr. Kristina J. Anderson-Teixeira leads the lab and the [ForestGEO Ecosystems & Climate Program](https://forestgeo.si.edu/research-programs/ecosystems-and-climate-program).
 
 {% include feature_row id="feature_row" %}
+
+![watercolor](/assets/images/tree-painting.jpg)
