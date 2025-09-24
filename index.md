@@ -3,7 +3,11 @@ title: "ForestGEO Ecosystems & Climate Lab"
 layout: splash
 permalink: /
 header:
-  image: /assets/images/forest-header.jpg  # header image
+  overlay_image: /assets/images/forest-header.jpg  # header image
+  caption: "Photo credit: K.J. Anderson-Teixeira"
+  actions:
+    - label: "About"
+      url: "/about/"
   
 feature_row:
   - image_path: /assets/images/feature.jpg
