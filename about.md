@@ -3,7 +3,8 @@ layout: single
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/forest-header.jpg  # header image
+  overlay_image: /assets/images/forest-header.jpg  # header image
+  caption: "Photo credit: K.J. Anderson-Teixeira"
   
 feature_row:
   - image_path: /assets/images/forestgeo-logo.jpg

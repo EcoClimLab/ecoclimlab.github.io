@@ -9,7 +9,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "ForestGEO Ecosystems & Climate Lab"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "studying forests in an era of global change" # site tagline that appears below site title in masthead
 name                     : "Kristina J. Anderson-Teixeira"
 description              : "ForestGEO Ecosystems & Climate Lab"
 url                      : "https://ecoclimlab.github.io"

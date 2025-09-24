@@ -4,7 +4,8 @@ classes: wide
 title: "Publications"
 permalink: /publications/
 header:
-  image: /assets/images/forest-header.jpg  # header image
+  overlay_image: /assets/images/forest-header.jpg  # header image
+  caption: "Photo credit: K.J. Anderson-Teixeira"
 author_profile: false
 ---
 
