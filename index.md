@@ -24,7 +24,7 @@ feature_row:
     url: "/research/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature.jpg
+  - image_path: /assets/images/resources.jpg
     alt: "Resources"
     title: "Resources"
     excerpt: "Data, code, & GitHub."
@@ -34,7 +34,7 @@ feature_row:
 
 
 feature_row2:
-  - image_path: /assets/images/feature.jpg
+  - image_path: /assets/images/pubs.jpg
     alt: "Publications"
     title: "Publications"
     excerpt: "Peer-reviewed research from the lab."
