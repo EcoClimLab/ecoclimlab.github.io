@@ -10,7 +10,7 @@ header:
       url: "/about/"
   
 feature_row:
-  - image_path: /assets/images/feature.jpg
+  - image_path: /assets/images/news.jpg
     alt: "News"
     title: "News"
     excerpt: "Latest accomplishments & news."
