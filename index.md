@@ -59,7 +59,7 @@ feature_row2:
 
 # **Welcome to the Forest Ecology and Climate Lab!** 
 We are a diverse group of scientists dedicated to understanding how global change is altering forests around the world
-and how changes to forest ecosystems will either mitigate or exacerbate climate change.
+and the role of forests in regulating Earth's climate.
 
 
 {% include feature_row id="feature_row" %}
