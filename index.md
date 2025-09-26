@@ -17,7 +17,7 @@ feature_row:
     url: "/news/"
     btn_label: "Get the latest!"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature.jpg
+  - image_path: /assets/images/research.jpg
     alt: "Research"
     title: "Research"
     excerpt: "Current & past projects."
@@ -58,9 +58,9 @@ feature_row2:
 ---
 
 # **Welcome to the Forest Ecology and Climate Lab!** 
-Research in our lab focuses on how global change is altering forests around the world and how changes to forest ecosystems will either mitigate or exacerbate climate change.
+We are a diverse group of scientists dedicated to understanding how global change is altering forests around the world
+and the role of forests in regulating Earth's climate.
 
-This page is currently under development. The current site is [here](https://sites.google.com/site/forestecoclimlab/home).
 
 {% include feature_row id="feature_row" %}
 {% include feature_row id="feature_row2" %}
