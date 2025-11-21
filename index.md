@@ -24,12 +24,12 @@ feature_row:
     url: "/research/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/resources.jpg
-    alt: "Resources"
-    title: "Resources"
-    excerpt: "Data, code, & GitHub."
-    url: "/resources/"
-    btn_label: "Explore Resources"
+  - image_path: /assets/images/census-team.jpg
+    alt: "People"
+    title: "People"
+    excerpt: "Meet our incredible research team."
+    url: "/people/"
+    btn_label: "Meet the Team"
     btn_class: "btn--primary"
 
 
@@ -41,12 +41,12 @@ feature_row2:
     url: "/publications/"
     btn_label: "View Publications"
     btn_class: "btn--primary"
-  - image_path: /assets/images/census-team.jpg
-    alt: "People"
-    title: "People"
-    excerpt: "Meet our incredible research team."
-    url: "/people/"
-    btn_label: "Meet the Team"
+  - image_path: /assets/images/resources.jpg
+    alt: "Resources"
+    title: "Resources"
+    excerpt: "Data, code, & GitHub."
+    url: "/resources/"
+    btn_label: "Explore Resources"
     btn_class: "btn--primary"
   - image_path: /assets/images/scbi-aerial.jpg
     alt: "Visit / Join"
