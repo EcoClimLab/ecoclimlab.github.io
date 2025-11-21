@@ -7,4 +7,4 @@ header:
   caption: "Photo credit: K.J. Anderson-Teixeira"
 ---
 
-This page is currently under development. Visit the resources page on our current site [here](https://sites.google.com/site/forestecoclimlab/data-resources).
+This page is currently under development. Visit the resources page on our previous website [here](https://sites.google.com/site/forestecoclimlab/data-resources).
