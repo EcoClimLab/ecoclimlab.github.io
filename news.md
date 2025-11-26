@@ -44,9 +44,7 @@ This page is currently under development. Visit the news page on our previous we
 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/forests-are-getting-shorter-and-younger-all-over-world-180975017/) | 
 [NPR](https://www.npr.org/2020/05/29/864151879/climate-change-and-deforestation-mean-earths-trees-are-younger-and-shorter) | 
 [CNBC](https://www.cnbc.com/2020/05/28/climate-change-is-driving-widespread-forest-death-creating-shorter-trees.html) |
-[Daily Californian](https://www.dailycal.org/2020/06/11/uc-berkeley-researchers-find-forests-are-becoming-younger-smaller/)
-
-[The grand old trees of the world are dying, leaving forests younger and shorter](https://www.nationalgeographic.com/science/2020/05/grand-old-trees-are-dying-leaving-forests-younger-shorter/) - National Geographic
+[National Geographic](https://www.nationalgeographic.com/science/2020/05/grand-old-trees-are-dying-leaving-forests-younger-shorter/) 
 
 [Decades of Tree Data Reveal Forests Under Attack](https://www.smithsonianmag.com/smithsonian-institution/decades-tree-data-reveal-forests-under-attack-180974890/) - Smithsonian Magazine
 
@@ -98,16 +96,16 @@ This page is currently under development. Visit the news page on our previous we
 
 ## 2016
 
-A Beetle Invasion - Smithsonian National Zoo
+[A Beetle Invasion](https://nationalzoo.si.edu/conservation-ecology-center/news/beetle-invasion) - Smithsonian National Zoo
 
-Big Trees at Most Risk from Warming - Yale Climate Connections
+[Big Trees at Most Risk from Warming](https://www.yaleclimateconnections.org/2016/01/big-trees-at-most-risk-from-warming/) - Yale Climate Connections
 
 ## 2015
 
-Big Trees First to Die in Severe Droughts - Climate Wire/ Scientific American
+[Big Trees First to Die in Severe Droughts](https://www.scientificamerican.com/article/big-trees-first-to-die-in-severe-droughts/) - Climate Wire/ Scientific American
 
-Are Harvard's Dying Hemlocks a Warning for Trees Everywhere? - National Geographic
+[Are Harvard's Dying Hemlocks a Warning for Trees Everywhere?](http://news.nationalgeographic.com/2015/04/150402-forest-die-off-climate-harvard-hemlocks-global-warming/) - National Geographic
 
 ## 2014
 
-If trees could talk: Forest research network reveals global change effects - Smithsonian Newsdesk
+[If trees could talk: Forest research network reveals global change effects](http://newsdesk.si.edu/releases/if-trees-could-talk-forest-research-network-reveals-global-change-effects) - Smithsonian Newsdesk
