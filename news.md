@@ -25,41 +25,41 @@ This page is currently under development. Visit the news page on our previous we
 
 ## 2021
 
-[Scientists reduce uncertainty in forest carbon storage calculations](https://www.sciencedaily.com/releases/2021/01/210114111922.htm) | Science Daily
+[Scientists reduce uncertainty in forest carbon storage calculations](https://www.sciencedaily.com/releases/2021/01/210114111922.htm) - Science Daily
 
 ## 2020
 
-[New study shows where we should grow more forest to fight climate change](https://news.mongabay.com/2020/09/new-study-shows-where-we-should-grow-more-forest-to-fight-climate-change/) | Mongabay
+[New study shows where we should grow more forest to fight climate change](https://news.mongabay.com/2020/09/new-study-shows-where-we-should-grow-more-forest-to-fight-climate-change/) - Mongabay
 
-[Study highlights climate mitigation potential of encouraging Earth's forests to regenerate naturally](https://phys.org/news/2020-09-highlights-climate-mitigation-potential-earth.html) | University of Oxford
+[Study highlights climate mitigation potential of encouraging Earth's forests to regenerate naturally](https://phys.org/news/2020-09-highlights-climate-mitigation-potential-earth.html) - University of Oxford
 
-[Plant trees or let forests regrow? New studies probe two ways to fight climate change](https://www.sciencemag.org/news/2020/09/plant-trees-or-let-forests-regrow-new-studies-probe-two-ways-fight-climate-change) | Science
+[Plant trees or let forests regrow? New studies probe two ways to fight climate change](https://www.sciencemag.org/news/2020/09/plant-trees-or-let-forests-regrow-new-studies-probe-two-ways-fight-climate-change) - Science
 
-[How the Revolutionary Thinker Alexander von Humboldt Helped to Create the Smithsonian](https://www.smithsonianmag.com/smithsonian-institution/how-revolutionary-thinker-alexander-von-humboldt-helped-create-smithsonian-180975790/) | Smithsonian Magazine
+[How the Revolutionary Thinker Alexander von Humboldt Helped to Create the Smithsonian](https://www.smithsonianmag.com/smithsonian-institution/how-revolutionary-thinker-alexander-von-humboldt-helped-create-smithsonian-180975790/) - Smithsonian Magazine
 
-[Death of the giants: Forests getting shorter, younger, in Northwest and elsewhere](https://www.seattletimes.com/seattle-news/environment/death-of-the-giants-forests-getting-shorter-younger-in-northwest-and-elsewhere/) | Seattle Times
+[Death of the giants: Forests getting shorter, younger, in Northwest and elsewhere](https://www.seattletimes.com/seattle-news/environment/death-of-the-giants-forests-getting-shorter-younger-in-northwest-and-elsewhere/) - Seattle Times
 
-[Forests Are Getting Shorter and Younger All Over the World](https://www.smithsonianmag.com/smart-news/forests-are-getting-shorter-and-younger-all-over-world-180975017/) | Smithsonian Magazine
+[Forests Are Getting Shorter and Younger All Over the World](https://www.smithsonianmag.com/smart-news/forests-are-getting-shorter-and-younger-all-over-world-180975017/) - Smithsonian Magazine
 
-[Climate Change And Deforestation Mean Earth's Trees Are Younger And Shorter](https://www.npr.org/2020/05/29/864151879/climate-change-and-deforestation-mean-earths-trees-are-younger-and-shorter) | NPR
+[Climate Change And Deforestation Mean Earth's Trees Are Younger And Shorter](https://www.npr.org/2020/05/29/864151879/climate-change-and-deforestation-mean-earths-trees-are-younger-and-shorter) - NPR
 
-More on world's forests getting younger, shorter (McDowell et al. 2020): [CNBC](https://www.cnbc.com/2020/05/28/climate-change-is-driving-widespread-forest-death-creating-shorter-trees.html) | [Daily Californian](https://www.dailycal.org/2020/06/11/uc-berkeley-researchers-find-forests-are-becoming-younger-smaller/)
+More on world's forests getting younger, shorter (McDowell et al. 2020): [CNBC](https://www.cnbc.com/2020/05/28/climate-change-is-driving-widespread-forest-death-creating-shorter-trees.html) - [Daily Californian](https://www.dailycal.org/2020/06/11/uc-berkeley-researchers-find-forests-are-becoming-younger-smaller/)
 
-[The grand old trees of the world are dying, leaving forests younger and shorter](https://www.nationalgeographic.com/science/2020/05/grand-old-trees-are-dying-leaving-forests-younger-shorter/) | National Geographic
+[The grand old trees of the world are dying, leaving forests younger and shorter](https://www.nationalgeographic.com/science/2020/05/grand-old-trees-are-dying-leaving-forests-younger-shorter/) - National Geographic
 
-[Decades of Tree Data Reveal Forests Under Attack](https://www.smithsonianmag.com/smithsonian-institution/decades-tree-data-reveal-forests-under-attack-180974890/) | Smithsonian Magazine
+[Decades of Tree Data Reveal Forests Under Attack](https://www.smithsonianmag.com/smithsonian-institution/decades-tree-data-reveal-forests-under-attack-180974890/) - Smithsonian Magazine
 
-[Deadly imports: In one U.S. forest, 25% of tree loss caused by foreign pests and disease](https://www.sciencemag.org/news/2020/05/deadly-imports-one-us-forest-25-tree-deaths-caused-foreign-pests-and-disease) | Science
+[Deadly imports: In one U.S. forest, 25% of tree loss caused by foreign pests and disease](https://www.sciencemag.org/news/2020/05/deadly-imports-one-us-forest-25-tree-deaths-caused-foreign-pests-and-disease) - Science
 
-[One in Four Tree Deaths in Blue Ridge Mountains Linked to Invasive Species](https://nationalzoo.si.edu/news/one-four-tree-deaths-blue-ridge-mountains-linked-invasive-species) | Smithsonian National Zoo & Conservation Biology Institute
+[One in Four Tree Deaths in Blue Ridge Mountains Linked to Invasive Species](https://nationalzoo.si.edu/news/one-four-tree-deaths-blue-ridge-mountains-linked-invasive-species) - Smithsonian National Zoo & Conservation Biology Institute
 
-[New Research Identifies Carbon-Rich Lands That Are Essential to Avoiding Climate Catastrophe](https://www.conservation.org/press-releases/2020/03/31/new-research-identifies-carbon-rich-lands-that-are-essential-to-avoiding-climate-catastrophe) | Conservation International
+[New Research Identifies Carbon-Rich Lands That Are Essential to Avoiding Climate Catastrophe](https://www.conservation.org/press-releases/2020/03/31/new-research-identifies-carbon-rich-lands-that-are-essential-to-avoiding-climate-catastrophe) - Conservation International
 
 ## 2019
 
-[VNPS Funded Research Reveals Which Trees are Dying and Why](https://vnps.org/vnps-funded-research-reveals-which-trees-are-dying-and-why/) | Virginia Native Plant Society
+[VNPS Funded Research Reveals Which Trees are Dying and Why](https://vnps.org/vnps-funded-research-reveals-which-trees-are-dying-and-why/) - Virginia Native Plant Society
 
-[Yes, Tropical Forests Tragically Burned This Summer, but Here’s What You Can Do](https://www.smithsonianmag.com/smithsonian-institution/yes-world-forests-tragically-burned-summer-heres-what-you-can-do-180973289/?no-cache) | Smithsonian Magazine
+[Yes, Tropical Forests Tragically Burned This Summer, but Here’s What You Can Do](https://www.smithsonianmag.com/smithsonian-institution/yes-world-forests-tragically-burned-summer-heres-what-you-can-do-180973289/?no-cache) - Smithsonian Magazine
 
 [NACP Researcher Spotlight: Kristina J. Anderson–Teixeira, Ph.D.](https://www.nacarbon.org/nacp/newsletterBuild_NACP/nacp_newsletter_aug2019.html#highlight)
 
