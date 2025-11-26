@@ -11,21 +11,16 @@ This page is currently under development. Visit the news page on our previous we
 
 # Press
 
-## 2025
+2025 | [Betting on future forest carbon storage endangers Paris Agreement targets](https://news.mongabay.com/2025/04/betting-on-future-forest-carbon-storage-endangers-paris-agreement-targets/) | Mongabay
 
-[Betting on future forest carbon storage endangers Paris Agreement targets](https://news.mongabay.com/2025/04/betting-on-future-forest-carbon-storage-endangers-paris-agreement-targets/) | Mongabay
+2022 | [New Research Reveals Forest Mitigation of Climate Change Is Overestimated](https://nationalzoo.si.edu/news/new-research-reveals-forest-mitigation-climate-change-overestimated) | Smithsonian's National Zoo & Conservation Biology Institute
 
-## 2022
+ | [Climate change may push North America’s forests to a ‘tipping point’](https://www.inverse.com/science/north-american-forests-in-danger-climate-change) | Inverse
 
-[New Research Reveals Forest Mitigation of Climate Change Is Overestimated](https://nationalzoo.si.edu/news/new-research-reveals-forest-mitigation-climate-change-overestimated) | Smithsonian's National Zoo & Conservation Biology Institute
+| [We must get a grip on forest science — before it’s too late](https://www.nature.com/articles/d41586-022-02182-0) | Nature editorial by Aisling Irwin 
 
-[Climate change may push North America’s forests to a ‘tipping point’](https://www.inverse.com/science/north-american-forests-in-danger-climate-change) | Inverse
+2021 | [Scientists reduce uncertainty in forest carbon storage calculations](https://www.sciencedaily.com/releases/2021/01/210114111922.htm) | Science Daily
 
-[We must get a grip on forest science — before it’s too late](https://www.nature.com/articles/d41586-022-02182-0) | Nature editorial by Aisling Irwin 
-
-## 2021
-
-[Scientists reduce uncertainty in forest carbon storage calculations](https://www.sciencedaily.com/releases/2021/01/210114111922.htm) | Science Daily
 
 ## 2020
 
@@ -57,7 +52,7 @@ More on world's forests getting younger, shorter (McDowell et al. 2020): [CNBC](
 
 ## 2019
 
-Intern Alyssa Terrell's work on tree mortality was highlighted at the [Virginia Native Plant Society website](https://vnps.org/vnps-funded-research-reveals-which-trees-are-dying-and-why/)
+[VNPS Funded Research Reveals Which Trees are Dying and Why](https://vnps.org/vnps-funded-research-reveals-which-trees-are-dying-and-why/) | Virginia Native Plant Society
 
 [Yes, Tropical Forests Tragically Burned This Summer, but Here’s What You Can Do](https://www.smithsonianmag.com/smithsonian-institution/yes-world-forests-tragically-burned-summer-heres-what-you-can-do-180973289/?no-cache) | Smithsonian Magazine
 
