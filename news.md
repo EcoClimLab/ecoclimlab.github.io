@@ -86,28 +86,28 @@ This page is currently under development. Visit the news page on our previous we
 
 ***Coverage of our collaboration with "Adaptation/Migration in the Anthropocene" art exhibit:***
 
-[Washington Post Going Out Guide](https://www.washingtonpost.com/goingoutguide/museums/see-a-stink-bug-thats-inches-long-at-a-national-zoo-show-all-about-insects/2017/12/06/ff767a1e-d62c-11e7-b62d-d9345ced896d_story.html?utm_term=.9f1a8bb747a1) | [National Zoo Video](https://www.facebook.com/nationalzoo/videos/10155884500332902/)
+[Washington Post Going Out Guide](https://www.washingtonpost.com/goingoutguide/museums/see-a-stink-bug-thats-inches-long-at-a-national-zoo-show-all-about-insects/2017/12/06/ff767a1e-d62c-11e7-b62d-d9345ced896d_story.html?utm_term=.9f1a8bb747a1) - [National Zoo Video](https://www.facebook.com/nationalzoo/videos/10155884500332902/)
 
-[Climate Changed](https://medium.com/@erinbiba_32960/climate-changed-5c6feba0ed3c) | Medium
+[Climate Changed](https://medium.com/@erinbiba_32960/climate-changed-5c6feba0ed3c) - Medium
 
-[El Niño puede dañar resiliencia de bosques tropicales](https://news.mongabay.com/2017/06/the-interval-squeeze-climate-change-makes-it-less-likely-conifer-forests-will-regenerate-after-wildfires/) | SciDevNet
+[El Niño puede dañar resiliencia de bosques tropicales](https://news.mongabay.com/2017/06/the-interval-squeeze-climate-change-makes-it-less-likely-conifer-forests-will-regenerate-after-wildfires/) - SciDevNet
 
-[The ‘interval squeeze’: Climate change makes it less likely conifer forests will regenerate after wildfires](https://news.mongabay.com/2017/06/the-interval-squeeze-climate-change-makes-it-less-likely-conifer-forests-will-regenerate-after-wildfires/) | Mongabay
+[The ‘interval squeeze’: Climate change makes it less likely conifer forests will regenerate after wildfires](https://news.mongabay.com/2017/06/the-interval-squeeze-climate-change-makes-it-less-likely-conifer-forests-will-regenerate-after-wildfires/) - Mongabay
 
-[Smithsonian Scientists Examine Impact of High-Severity Fires on Conifer Forests](https://nationalzoo.si.edu/news/smithsonian-scientists-examine-impact-high-severity-fires-conifer-forests) | Smithsonian National Zoo
+[Smithsonian Scientists Examine Impact of High-Severity Fires on Conifer Forests](https://nationalzoo.si.edu/news/smithsonian-scientists-examine-impact-high-severity-fires-conifer-forests) - Smithsonian National Zoo
 
 ## 2016
 
-A Beetle Invasion | Smithsonian National Zoo
+A Beetle Invasion - Smithsonian National Zoo
 
-Big Trees at Most Risk from Warming | Yale Climate Connections
+Big Trees at Most Risk from Warming - Yale Climate Connections
 
 ## 2015
 
-Big Trees First to Die in Severe Droughts | Climate Wire/ Scientific American
+Big Trees First to Die in Severe Droughts - Climate Wire/ Scientific American
 
-Are Harvard's Dying Hemlocks a Warning for Trees Everywhere? | National Geographic
+Are Harvard's Dying Hemlocks a Warning for Trees Everywhere? - National Geographic
 
 ## 2014
 
-If trees could talk: Forest research network reveals global change effects | Smithsonian Newsdesk
+If trees could talk: Forest research network reveals global change effects - Smithsonian Newsdesk
