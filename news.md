@@ -39,11 +39,12 @@ This page is currently under development. Visit the news page on our previous we
 
 [Death of the giants: Forests getting shorter, younger, in Northwest and elsewhere](https://www.seattletimes.com/seattle-news/environment/death-of-the-giants-forests-getting-shorter-younger-in-northwest-and-elsewhere/) - Seattle Times
 
-[Forests Are Getting Shorter and Younger All Over the World](https://www.smithsonianmag.com/smart-news/forests-are-getting-shorter-and-younger-all-over-world-180975017/) - Smithsonian Magazine
+***World's forests getting younger, shorter (McDowell et al. 2020):***
 
-[Climate Change And Deforestation Mean Earth's Trees Are Younger And Shorter](https://www.npr.org/2020/05/29/864151879/climate-change-and-deforestation-mean-earths-trees-are-younger-and-shorter) - NPR
-
-More on world's forests getting younger, shorter (McDowell et al. 2020): [CNBC](https://www.cnbc.com/2020/05/28/climate-change-is-driving-widespread-forest-death-creating-shorter-trees.html) - [Daily Californian](https://www.dailycal.org/2020/06/11/uc-berkeley-researchers-find-forests-are-becoming-younger-smaller/)
+[Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/forests-are-getting-shorter-and-younger-all-over-world-180975017/) | 
+[NPR](https://www.npr.org/2020/05/29/864151879/climate-change-and-deforestation-mean-earths-trees-are-younger-and-shorter) | 
+[CNBC](https://www.cnbc.com/2020/05/28/climate-change-is-driving-widespread-forest-death-creating-shorter-trees.html) |
+[Daily Californian](https://www.dailycal.org/2020/06/11/uc-berkeley-researchers-find-forests-are-becoming-younger-smaller/)
 
 [The grand old trees of the world are dying, leaving forests younger and shorter](https://www.nationalgeographic.com/science/2020/05/grand-old-trees-are-dying-leaving-forests-younger-shorter/) - National Geographic
 
@@ -61,7 +62,7 @@ More on world's forests getting younger, shorter (McDowell et al. 2020): [CNBC](
 
 [Yes, Tropical Forests Tragically Burned This Summer, but Here’s What You Can Do](https://www.smithsonianmag.com/smithsonian-institution/yes-world-forests-tragically-burned-summer-heres-what-you-can-do-180973289/?no-cache) - Smithsonian Magazine
 
-[NACP Researcher Spotlight: Kristina J. Anderson–Teixeira, Ph.D.](https://www.nacarbon.org/nacp/newsletterBuild_NACP/nacp_newsletter_aug2019.html#highlight)
+[Researcher Spotlight: Kristina J. Anderson–Teixeira, Ph.D.](https://www.nacarbon.org/nacp/newsletterBuild_NACP/nacp_newsletter_aug2019.html#highlight) - NACP
 
 ***Kristina Anderson-Teixeira awarded the Presidential Early Career Award for Scientists and Engineers:*** 
 
@@ -69,29 +70,31 @@ More on world's forests getting younger, shorter (McDowell et al. 2020): [CNBC](
 
 ## 2018
 
-Inequality is normal: Dominance of the big trees | Science Daily
+[Inequality is normal: Dominance of the big trees](https://www.sciencedaily.com/releases/2018/05/180508155029.htm) - Science Daily
 
-Climate change, wildfires transforming biodiversity hotspot in Northern California | United Press International
+[Climate change, wildfires transforming biodiversity hotspot in Northern California](https://www.upi.com/Science_News/2018/04/30/Climate-change-wildfires-transforming-biodiversity-hotspot-in-Northern-California/2801525098683/?utm_source=fp&utm_campaign=ts_sn&utm_medium=16) - United Press International
 
-Warming future means more fire, fewer trees in western biodiversity hotspot | Science Daily
+[Warming future means more fire, fewer trees in western biodiversity hotspot](https://www.sciencedaily.com/releases/2018/04/180430075614.htm) - Science Daily
 
-Using Mathematical Models to Save Forests | Smithsonian National Zoo & Conservation Biology Institute
+[Using Mathematical Models to Save Forests](https://nationalzoo.si.edu/conservation-ecology-center/news/using-mathematical-models-save-forests) - Smithsonian National Zoo & Conservation Biology Institute
 
-Increasing tree mortality in a warming world | Science Daily
+[Increasing tree mortality in a warming world](https://www.sciencedaily.com/releases/2018/03/180309095503.htm) - Science Daily
 
-Ash Tree die-off focus of grant in Shenandoah National Park | National Park Service
+[Ash Tree die-off focus of grant in Shenandoah National Park](https://www.nps.gov/shen/learn/news/ash-tree-die-off-is-focus-of-2018-research-grant-awarded-in-shenandoah-national-park.htm) - National Park Service
 
 ## 2017
 
-Coverage of our collaboration with "Adaptation/Migration in the Anthropocene" art exhibit: Washington Post Going Out Guide | National Zoo Video
+***Coverage of our collaboration with "Adaptation/Migration in the Anthropocene" art exhibit:***
 
-Climate Changed | Medium
+[Washington Post Going Out Guide](https://www.washingtonpost.com/goingoutguide/museums/see-a-stink-bug-thats-inches-long-at-a-national-zoo-show-all-about-insects/2017/12/06/ff767a1e-d62c-11e7-b62d-d9345ced896d_story.html?utm_term=.9f1a8bb747a1) | [National Zoo Video](https://www.facebook.com/nationalzoo/videos/10155884500332902/)
 
-El Niño puede dañar resiliencia de bosques tropicales | SciDevNet
+[Climate Changed](https://medium.com/@erinbiba_32960/climate-changed-5c6feba0ed3c) | Medium
 
-The ‘interval squeeze’: Climate change makes it less likely conifer forests will regenerate after wildfires | Mongabay
+[El Niño puede dañar resiliencia de bosques tropicales](https://news.mongabay.com/2017/06/the-interval-squeeze-climate-change-makes-it-less-likely-conifer-forests-will-regenerate-after-wildfires/) | SciDevNet
 
-Smithsonian Scientists Examine Impact of High-Severity Fires on Conifer Forests | Smithsonian National Zoo
+[The ‘interval squeeze’: Climate change makes it less likely conifer forests will regenerate after wildfires](https://news.mongabay.com/2017/06/the-interval-squeeze-climate-change-makes-it-less-likely-conifer-forests-will-regenerate-after-wildfires/) | Mongabay
+
+[Smithsonian Scientists Examine Impact of High-Severity Fires on Conifer Forests](https://nationalzoo.si.edu/news/smithsonian-scientists-examine-impact-high-severity-fires-conifer-forests) | Smithsonian National Zoo
 
 ## 2016
 
