@@ -86,7 +86,7 @@ This page is currently under development. Visit the news page on our previous we
 
 ***Coverage of our collaboration with "Adaptation/Migration in the Anthropocene" art exhibit:***
 
-[Washington Post Going Out Guide](https://www.washingtonpost.com/goingoutguide/museums/see-a-stink-bug-thats-inches-long-at-a-national-zoo-show-all-about-insects/2017/12/06/ff767a1e-d62c-11e7-b62d-d9345ced896d_story.html?utm_term=.9f1a8bb747a1) - [National Zoo Video](https://www.facebook.com/nationalzoo/videos/10155884500332902/)
+[Washington Post Going Out Guide](https://www.washingtonpost.com/goingoutguide/museums/see-a-stink-bug-thats-inches-long-at-a-national-zoo-show-all-about-insects/2017/12/06/ff767a1e-d62c-11e7-b62d-d9345ced896d_story.html?utm_term=.9f1a8bb747a1) | [National Zoo Video](https://www.facebook.com/nationalzoo/videos/10155884500332902/)
 
 [Climate Changed](https://medium.com/@erinbiba_32960/climate-changed-5c6feba0ed3c) - Medium
 
