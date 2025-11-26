@@ -11,16 +11,21 @@ This page is currently under development. Visit the news page on our previous we
 
 # Press
 
-2025 | [Betting on future forest carbon storage endangers Paris Agreement targets](https://news.mongabay.com/2025/04/betting-on-future-forest-carbon-storage-endangers-paris-agreement-targets/) | Mongabay
+## 2025
 
-2022 | [New Research Reveals Forest Mitigation of Climate Change Is Overestimated](https://nationalzoo.si.edu/news/new-research-reveals-forest-mitigation-climate-change-overestimated) | Smithsonian's National Zoo & Conservation Biology Institute
+[Betting on future forest carbon storage endangers Paris Agreement targets](https://news.mongabay.com/2025/04/betting-on-future-forest-carbon-storage-endangers-paris-agreement-targets/) - Mongabay
 
- | [Climate change may push North America’s forests to a ‘tipping point’](https://www.inverse.com/science/north-american-forests-in-danger-climate-change) | Inverse
+## 2022
 
-| [We must get a grip on forest science — before it’s too late](https://www.nature.com/articles/d41586-022-02182-0) | Nature editorial by Aisling Irwin 
+[New Research Reveals Forest Mitigation of Climate Change Is Overestimated](https://nationalzoo.si.edu/news/new-research-reveals-forest-mitigation-climate-change-overestimated) - Smithsonian's National Zoo & Conservation Biology Institute
 
-2021 | [Scientists reduce uncertainty in forest carbon storage calculations](https://www.sciencedaily.com/releases/2021/01/210114111922.htm) | Science Daily
+[Climate change may push North America’s forests to a ‘tipping point’](https://www.inverse.com/science/north-american-forests-in-danger-climate-change) - Inverse
 
+[We must get a grip on forest science — before it’s too late](https://www.nature.com/articles/d41586-022-02182-0) - Nature editorial by Aisling Irwin 
+
+## 2021
+
+[Scientists reduce uncertainty in forest carbon storage calculations](https://www.sciencedaily.com/releases/2021/01/210114111922.htm) | Science Daily
 
 ## 2020
 
