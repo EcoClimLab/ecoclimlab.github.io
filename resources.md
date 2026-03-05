@@ -77,3 +77,12 @@ All of these organizations are managed by this lab.
 
 {% include feature_row id="feature_row2" %}
 {% include feature_row id="feature_row3" %}
+
+# **Featured Data Resources** 
+- [ForestGEO tree census database](https://forestgeo.si.edu/explore-data)
+- [ForestGEO climate database](https://forestgeo.github.io/Climate/)
+- [Smithsonian Conservation Biology Institute (SCBI) ForestGEO Plot Data](https://scbi-forestgeo.github.io/SCBI-ForestGEO-Data/)
+- [Global Forest Carbon database (ForC)](https://github.com/forc-db/ForC)
+
+*All data from publications led out of this lab after 2016 are managed in GitHub and archived in Zenodo, as specified in the publications.*
+[Older data sets](/resources/older-data/) were mostly in Dryad. 
