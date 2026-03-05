@@ -65,10 +65,6 @@ feature_row3:
 
 
 
-This page is currently under development. Visit the resources page on our previous website [here](https://sites.google.com/site/forestecoclimlab/data-resources).
-
-
-
 # **Featured Resources** 
 {% include feature_row id="feature_row" %}
 
