@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/forestgeo-logo.jpg
     alt: "ForestGEO"
     title: "Forest Global Earth Observatory (ForestGEO)"
-    excerpt: "ForestGEO's website has network information, protocols, data access portal, and more."
+    excerpt: "ForestGEO's website has network info, protocols, data access portal, and more."
     url: "https://forestgeo.si.edu/"
     btn_label: "Explore ForestGEO"
     btn_class: "btn--primary"
@@ -31,26 +31,26 @@ feature_row:
 
 
 feature_row2:
-  - image_path: /assets/images/pubs.jpg
-    alt: "Publications"
-    title: "Publications"
-    excerpt: "Peer-reviewed research from the lab."
-    url: "/publications/"
-    btn_label: "View Publications"
+  - image_path: /assets/images/ecoclimlab.jpg
+    alt: "ForestGEO"
+    title: "Forest Global Earth Observatory (ForestGEO)"
+    excerpt: "Repository with ForestGEO data and code, managed by this lab."
+    url: "https://github.com/forestgeo"
+    btn_label: "Access ForestGEO GitHub"
     btn_class: "btn--primary"
-  - image_path: /assets/images/resources.jpg
-    alt: "Resources"
-    title: "Resources"
-    excerpt: "Data, code, & GitHub."
-    url: "/resources/"
-    btn_label: "Explore Resources"
+  - image_path: /assets/images/forestgeo-logo.jpg
+    alt: "SCBI-ForestGEO"
+    title: "SCBI-ForestGEO"
+    excerpt: "Repository with data and code for the SCBI ForestGEO plot."
+    url: "https://github.com/SCBI-ForestGEO"
+    btn_label: "Access SCBI-ForestGEO GitHub"
     btn_class: "btn--primary"
-  - image_path: /assets/images/scbi-aerial.jpg
-    alt: "Visit / Join"
-    title: "Visit / Join"
-    excerpt: "Interested in visiting or joining the lab?"
-    url: "/visit-join/"
-    btn_label: "Visit / Join"
+  - image_path: /assets/images/scbi-plot.jpg
+    alt: "EcoClimLab"
+    title: "ForestGEO Ecosystems & Climate Lab (EcoClimLab)"
+    excerpt: "Repository hosting data and analyses from the ForestGEO Ecosystems & Climate Lab."
+    url: "https://github.com/EcoClimLab"
+    btn_label: "Access EcoClimLab GitHub"
     btn_class: "btn--primary"
 ---
 
