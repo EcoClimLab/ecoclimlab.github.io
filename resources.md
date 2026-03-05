@@ -45,6 +45,8 @@ feature_row2:
     url: "https://github.com/SCBI-ForestGEO"
     btn_label: "Access SCBI-ForestGEO GitHub"
     btn_class: "btn--primary"
+
+feature_row3:
   - image_path: /assets/images/ecoclimlab.jpg
     alt: "EcoClimLab"
     title: "ForestGEO Ecosystems & Climate Lab (EcoClimLab)"
@@ -74,3 +76,4 @@ This page is currently under development. Visit the resources page on our previo
 All of these organizations are managed by this lab.
 
 {% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" %}
