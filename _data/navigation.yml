@@ -12,5 +12,8 @@ main:
     url: /research/
   - title: "Resources"
     url: /resources/
+    children:
+      - title: "Older Data"
+        url: /resources/older-data/
   - title: "Visit / Join"
     url: /visit-join/
