@@ -40,7 +40,7 @@ feature_row2:
     btn_class: "btn--primary"
   - image_path: /assets/images/forestgeo-logo.jpg
     alt: "SCBI-ForestGEO"
-    title: "SCBI-ForestGEO"
+    title: "Smithsonian Conservation Biology Institute (SCBI)-ForestGEO"
     excerpt: "Repository with data and code for the SCBI ForestGEO plot."
     url: "https://github.com/SCBI-ForestGEO"
     btn_label: "Access SCBI-ForestGEO GitHub"
