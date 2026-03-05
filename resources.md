@@ -7,12 +7,12 @@ header:
   caption: "Photo credit: K.J. Anderson-Teixeira"
 
 feature_row:
-  - image_path: /assets/images/news.jpg
-    alt: "News"
-    title: "News"
-    excerpt: "Latest accomplishments & news."
-    url: "/news/"
-    btn_label: "Get the latest!"
+  - image_path: /assets/images/forestgeo-logo.jpg
+    alt: "ForestGEO"
+    title: "Forest Global Earth Observatory (ForestGEO)"
+    excerpt: "ForestGEO's website has network information, protocols, data access portal, and more."
+    url: "https://forestgeo.si.edu/"
+    btn_label: "Explore ForestGEO"
     btn_class: "btn--primary"
   - image_path: /assets/images/allodb.jpg
     alt: "allodb"
