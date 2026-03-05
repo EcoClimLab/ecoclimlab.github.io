@@ -81,4 +81,4 @@ All of these organizations are managed by this lab.
 - [Global Forest Carbon database (ForC)](https://github.com/forc-db/ForC)
 
 *All data from publications led out of this lab after 2016 are managed in GitHub and archived in Zenodo, as specified in the publications.*
-[Older data sets](/resources/older-data/) were mostly in Dryad. 
+[Older data sets](https://ecoclimlab.github.io/resources/older-data) were mostly in Dryad. 
