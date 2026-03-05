@@ -14,14 +14,14 @@ feature_row:
     url: "/news/"
     btn_label: "Get the latest!"
     btn_class: "btn--primary"
-  - image_path: /assets/images/research.jpg
-    alt: "Research"
-    title: "Research"
-    excerpt: "Current & past projects."
-    url: "/research/"
-    btn_label: "Learn More"
+  - image_path: /assets/images/allodb.jpg
+    alt: "allodb"
+    title: "allodb: a biomass allometry database and integrated R code"
+    excerpt: "allodb, which was developed in this lab, is an R package for biomass estimation at extratropical forest plots."
+    url: "https://docs.ropensci.org/allodb/"
+    btn_label: "Access allodb"
     btn_class: "btn--primary"
-  - image_path: /assets/images/census-team.jpg
+  - image_path: /assets/images/forc-map.jpg
     alt: "ForC"
     title: "Global Forest Carbon Database (ForC)"
     excerpt: "ForC, which was developed in this lab, is the largest and most comprehensive database of forest carbon stocks and annual fluxes."
