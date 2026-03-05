@@ -38,7 +38,6 @@ feature_row2:
     url: "https://github.com/forestgeo"
     btn_label: "Access ForestGEO GitHub"
     btn_class: "btn--primary"
-
   - image_path: /assets/images/scbi-plot.jpg
     alt: "SCBI-ForestGEO"
     title: "Smithsonian Conservation Biology Institute (SCBI)-ForestGEO"
@@ -47,6 +46,7 @@ feature_row2:
     btn_label: "Access SCBI-ForestGEO GitHub"
     btn_class: "btn--primary"
 
+feature_row3:
   - image_path: /assets/images/ecoclimlab.jpg
     alt: "EcoClimLab"
     title: "ForestGEO Ecosystems & Climate Lab (EcoClimLab)"
@@ -54,7 +54,6 @@ feature_row2:
     url: "https://github.com/EcoClimLab"
     btn_label: "Access EcoClimLab GitHub"
     btn_class: "btn--primary"
-
   - image_path: /assets/images/forc.jpg
     alt: "ForC"
     title: "Global Forest Carbon Database (ForC)"
@@ -73,6 +72,7 @@ feature_row2:
 All of these organizations are managed by this lab.
 
 {% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" %}
 
 # **Featured Data Resources** 
 - [ForestGEO tree census database](https://forestgeo.si.edu/explore-data)
