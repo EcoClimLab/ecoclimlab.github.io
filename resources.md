@@ -31,14 +31,14 @@ feature_row:
 
 
 feature_row2:
-  - image_path: /assets/images/ecoclimlab.jpg
+  - image_path: /assets/images/forestgeo-logo.jpg
     alt: "ForestGEO"
     title: "Forest Global Earth Observatory (ForestGEO)"
-    excerpt: "Repository with ForestGEO data and code, managed by this lab."
+    excerpt: "Repository with ForestGEO data and code."
     url: "https://github.com/forestgeo"
     btn_label: "Access ForestGEO GitHub"
     btn_class: "btn--primary"
-  - image_path: /assets/images/forestgeo-logo.jpg
+  - image_path: /assets/images/ecoclimlab.jpg
     alt: "SCBI-ForestGEO"
     title: "Smithsonian Conservation Biology Institute (SCBI)-ForestGEO"
     excerpt: "Repository with data and code for the SCBI ForestGEO plot."
@@ -48,7 +48,7 @@ feature_row2:
   - image_path: /assets/images/scbi-plot.jpg
     alt: "EcoClimLab"
     title: "ForestGEO Ecosystems & Climate Lab (EcoClimLab)"
-    excerpt: "Repository hosting data and analyses from the ForestGEO Ecosystems & Climate Lab."
+    excerpt: "Repository hosting data and analyses from this lab."
     url: "https://github.com/EcoClimLab"
     btn_label: "Access EcoClimLab GitHub"
     btn_class: "btn--primary"
@@ -63,5 +63,7 @@ This page is currently under development. Visit the resources page on our previo
 # **Featured Resources** 
 {% include feature_row id="feature_row" %}
 
-# **GitHub** 
+# **GitHub Organizations** 
+All of these organizations are managed by this lab.
+
 {% include feature_row id="feature_row2" %}
