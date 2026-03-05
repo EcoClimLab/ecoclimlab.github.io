@@ -54,7 +54,7 @@ feature_row3:
     url: "https://github.com/EcoClimLab"
     btn_label: "Access EcoClimLab GitHub"
     btn_class: "btn--primary"
-  - image_path: /assets/images/forc-map.jpg
+  - image_path: /assets/images/forc.jpg
     alt: "ForC"
     title: "Global Forest Carbon Database (ForC)"
     excerpt: "ForC GitHub repositories include the database and code/figures for associated publications."
