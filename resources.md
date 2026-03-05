@@ -38,14 +38,14 @@ feature_row2:
     url: "https://github.com/forestgeo"
     btn_label: "Access ForestGEO GitHub"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ecoclimlab.jpg
+  - image_path: /assets/images/scbi-plot.jpg
     alt: "SCBI-ForestGEO"
     title: "Smithsonian Conservation Biology Institute (SCBI)-ForestGEO"
     excerpt: "Repository with data and code for the SCBI ForestGEO plot."
     url: "https://github.com/SCBI-ForestGEO"
     btn_label: "Access SCBI-ForestGEO GitHub"
     btn_class: "btn--primary"
-  - image_path: /assets/images/scbi-plot.jpg
+  - image_path: /assets/images/ecoclimlab.jpg
     alt: "EcoClimLab"
     title: "ForestGEO Ecosystems & Climate Lab (EcoClimLab)"
     excerpt: "Repository hosting data and analyses from this lab."
