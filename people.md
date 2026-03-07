@@ -13,7 +13,6 @@ feature_row_leadership:
     url: "/kristina-anderson-teixeira/"
     btn_label: "Meet Krista!"
     btn_class: "btn--primary"
-
 ---
 
 This page is currently under development. Visit the people page on our previous website [here](https://sites.google.com/site/forestecoclimlab/people).
