@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: K.J. Anderson-Teixeira"
   
 feature_row_leadership:
-  - image_path: /assets/images/people/Krista.jpg
+- image_path: /assets/images/people/Krista.jpg
     title: "Kristina ("Krista") Anderson-Teixeira (she/her)"
     excerpt: "Principle Investigator - Leader of ForestGEO Ecosystems & Climate Program"
     url: "/kristina-anderson-teixeira/"
