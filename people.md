@@ -8,9 +8,9 @@ header:
   
 feature_row:
   - image_path: /assets/images/people/Krista.jpg
-    alt: "ForestGEO"
-    title: "Forest Global Earth Observatory (ForestGEO)"
-    excerpt: "ForestGEO's website has network info, protocols, data access portal, and more."
+    alt: "Krista"
+    title: "Kristina J. Anderson-Teixeira (she/her)"
+    excerpt: "Principal Investigator - Leader of ForestGEO Ecosystems & Climate Program"
     url: "https://forestgeo.si.edu/"
     btn_label: "Explore ForestGEO"
     btn_class: "btn--primary"
