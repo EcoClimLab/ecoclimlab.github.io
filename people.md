@@ -7,13 +7,13 @@ header:
   caption: "Photo credit: K.J. Anderson-Teixeira"
   
 feature_row_leadership:
-- image_path: /assets/images/people/Krista.jpg
+  - image_path: /assets/images/people/Krista.jpg
     title: "Kristina ("Krista") Anderson-Teixeira (she/her)"
     excerpt: "Principle Investigator - Leader of ForestGEO Ecosystems & Climate Program"
     url: "/kristina-anderson-teixeira/"
     btn_label: "Meet Krista!"
     btn_class: "btn--primary"
-- image_path: /assets/images/people/Valentine.jpg
+  - image_path: /assets/images/people/Valentine.jpg
     title: "Valentine Herrmann (she/her)"
     excerpt: "R scripts Developer  - Data Management  - Data Analysis"
     url: "/valentine-herrmann/" <!--https://valentineherr.github.io/-->
