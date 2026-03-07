@@ -13,6 +13,12 @@ feature_row_leadership:
     url: "/kristina-anderson-teixeira/"
     btn_label: "Meet Krista!"
     btn_class: "btn--primary"
+- image_path: /assets/images/people/Valentine.jpg
+    title: "Valentine Herrmann (she/her)"
+    excerpt: "R scripts Developer  - Data Management  - Data Analysis"
+    url: "/valentine-herrmann/" <!--https://valentineherr.github.io/-->
+    btn_label: "Meet Valentine!"
+    btn_class: "btn--primary"
 ---
 
 This page is currently under development. Visit the people page on our previous website [here](https://sites.google.com/site/forestecoclimlab/people).
