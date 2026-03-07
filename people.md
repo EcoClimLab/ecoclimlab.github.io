@@ -28,7 +28,7 @@ This page is currently under development. Visit the people page on our previous 
 # Leadership
 *The lab is led by long-term Smithsonian employees who provide significant expertise and mentorship.*
 
-<!--{% include feature_row id="feature_row_leadership" %}-->
+{% include feature_row id="feature_row_leadership" %}
 
 # Postdoctoral Researchers 
 *Postdocs have recently received their PhD and are leading their own research projects while collaborating with us.*
