@@ -21,13 +21,6 @@ feature_row:
     url: "https://docs.ropensci.org/allodb/"
     btn_label: "Access allodb"
     btn_class: "btn--primary"
-  - image_path: /assets/images/forc-map.jpg
-    alt: "ForC"
-    title: "Global Forest Carbon Database (ForC)"
-    excerpt: "ForC, which was developed in this lab, is the largest and most comprehensive database of forest carbon stocks and annual fluxes."
-    url: "https://forc-db.github.io/"
-    btn_label: "Explore ForC"
-    btn_class: "btn--primary"
 
 ---
 
