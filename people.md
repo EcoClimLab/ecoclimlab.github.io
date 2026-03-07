@@ -6,21 +6,29 @@ header:
   overlay_image: /assets/images/forest-header.jpg  # header image
   caption: "Photo credit: K.J. Anderson-Teixeira"
   
-feature_row_leadership:
-  - image_path: /assets/images/people/Krista.jpg
-    title: "Kristina ("Krista") Anderson-Teixeira (she/her)"
-    alt: "Krista"
-    excerpt: "Principal Investigator - Leader of ForestGEO Ecosystems & Climate Program"
-    url: "/kristina-anderson-teixeira/"
-    btn_label: "Meet Krista!"
+feature_row:
+  - image_path: /assets/images/forestgeo-logo.jpg
+    alt: "ForestGEO"
+    title: "Forest Global Earth Observatory (ForestGEO)"
+    excerpt: "ForestGEO's website has network info, protocols, data access portal, and more."
+    url: "https://forestgeo.si.edu/"
+    btn_label: "Explore ForestGEO"
     btn_class: "btn--primary"
-  - image_path: /assets/images/people/Valentine.jpg
-    alt: "Valentine"
-    title: "Valentine Herrmann (she/her)"
-    excerpt: "R scripts Developer  - Data Management  - Data Analysis"
-    url: "/valentine-herrmann/"
-    btn_label: "Meet Valentine!"
+  - image_path: /assets/images/allodb.jpg
+    alt: "allodb"
+    title: "allodb: a biomass allometry database and integrated R code"
+    excerpt: "allodb, which was developed in this lab, is an R package for biomass estimation at extratropical forest plots."
+    url: "https://docs.ropensci.org/allodb/"
+    btn_label: "Access allodb"
     btn_class: "btn--primary"
+  - image_path: /assets/images/forc-map.jpg
+    alt: "ForC"
+    title: "Global Forest Carbon Database (ForC)"
+    excerpt: "ForC, which was developed in this lab, is the largest and most comprehensive database of forest carbon stocks and annual fluxes."
+    url: "https://forc-db.github.io/"
+    btn_label: "Explore ForC"
+    btn_class: "btn--primary"
+
 ---
 
 This page is currently under development. Visit the people page on our previous website [here](https://sites.google.com/site/forestecoclimlab/people).
@@ -28,7 +36,7 @@ This page is currently under development. Visit the people page on our previous 
 # Leadership
 *The lab is led by long-term Smithsonian employees who provide significant expertise and mentorship.*
 
-{% include feature_row id="feature_row_leadership" %}
+{% include feature_row id="feature_row" %}
 
 # Postdoctoral Researchers 
 *Postdocs have recently received their PhD and are leading their own research projects while collaborating with us.*
