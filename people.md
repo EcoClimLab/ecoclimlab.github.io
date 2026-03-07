@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: K.J. Anderson-Teixeira"
   
 feature_row:
-  - image_path: /assets/images/people/krista.jpg
+  - image_path: /assets/images/people/Krista.jpg
     alt: "ForestGEO"
     title: "Forest Global Earth Observatory (ForestGEO)"
     excerpt: "ForestGEO's website has network info, protocols, data access portal, and more."
