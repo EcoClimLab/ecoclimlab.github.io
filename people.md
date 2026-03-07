@@ -11,15 +11,15 @@ feature_row:
     alt: "Krista"
     title: "Kristina J. Anderson-Teixeira (she/her)"
     excerpt: "Principal Investigator - Leader of ForestGEO Ecosystems & Climate Program"
-    url: "https://forestgeo.si.edu/"
-    btn_label: "Explore ForestGEO"
+    url: ""
+    btn_label: "Meet Krista!"
     btn_class: "btn--primary"
-  - image_path: /assets/images/allodb.jpg
-    alt: "allodb"
-    title: "allodb: a biomass allometry database and integrated R code"
-    excerpt: "allodb, which was developed in this lab, is an R package for biomass estimation at extratropical forest plots."
-    url: "https://docs.ropensci.org/allodb/"
-    btn_label: "Access allodb"
+  - image_path: /assets/images/people/Valentine.jpg
+    alt: "Valentine"
+    title: "Valentine Herrmann (she/her)"
+    excerpt: "R scripts Developer - Data Management - Data Analysis"
+    url: ""
+    btn_label: "Meet Valentine!"
     btn_class: "btn--primary"
 
 ---
