@@ -8,15 +8,15 @@ header:
   
 feature_row:
   - image_path: /assets/images/people/Krista.jpg
-    alt: "ForestGEO"
-    title: "Forest Global Earth Observatory (ForestGEO)"
+    alt: "Krista"
+    title: "Dr. Kristina ("Krista") Anderson-Teixeira (she/her)"
     excerpt: "ForestGEO's website has network info, protocols, data access portal, and more."
     url: "https://forestgeo.si.edu/"
     btn_label: "Explore ForestGEO"
     btn_class: "btn--primary"
-  - image_path: /assets/images/allodb.jpg
-    alt: "allodb"
-    title: "allodb: a biomass allometry database and integrated R code"
+  - image_path: /assets/images/people/Valentine.jpg
+    alt: "Valentine"
+    title: "Valentine Herrmann (she/her)"
     excerpt: "allodb, which was developed in this lab, is an R package for biomass estimation at extratropical forest plots."
     url: "https://docs.ropensci.org/allodb/"
     btn_label: "Access allodb"
