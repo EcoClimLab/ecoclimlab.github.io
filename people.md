@@ -16,7 +16,7 @@ feature_row_leadership:
   - image_path: /assets/images/people/Valentine.jpg
     title: "Valentine Herrmann (she/her)"
     excerpt: "R scripts Developer  - Data Management  - Data Analysis"
-    url: "/valentine-herrmann/"
+    url: "/valentine-herrmann/" # https://valentineherr.github.io/
     btn_label: "Meet Valentine!"
     btn_class: "btn--primary"
 ---
