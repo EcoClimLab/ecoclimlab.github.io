@@ -6,6 +6,9 @@ main:
     url: /news/
   - title: "People"
     url: /people/
+    children:
+      - title: "K. J. Anderson-Teixeira"
+        url: /people/k-j-anderson-teixeira/
   - title: "Publications"
     url: /publications/
   - title: "Research"

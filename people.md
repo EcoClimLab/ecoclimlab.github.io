@@ -11,7 +11,7 @@ feature_row_employees:
     alt: "Krista"
     title: "Kristina (\"Krista\") J. Anderson-Teixeira"
     excerpt: "Principal Investigator - Leader of ForestGEO Ecosystems & Climate Program"
-    url: ""
+    url: "/people/k-j-anderson-teixeira/"
     btn_label: "Meet Krista!"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/Valentine.jpg
