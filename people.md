@@ -9,15 +9,15 @@ header:
 feature_row:
   - image_path: /assets/images/people/Krista.jpg
     alt: "Krista"
-    title: "Kristina (\"Krista\") J. Anderson-Teixeira (she/her)"
-    excerpt: "Principal Investigator - Leader of ForestGEO Ecosystems & Climate Program"
+    title: "Kristina (\"Krista\") J. Anderson-Teixeira"
+    excerpt: "(she/her)   Principal Investigator - Leader of ForestGEO Ecosystems & Climate Program"
     url: ""
     btn_label: "Meet Krista!"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/Valentine.jpg
     alt: "Valentine"
-    title: "Valentine Herrmann (she/her)"
-    excerpt: "R scripts Developer - Data Management - Data Analysis"
+    title: "Valentine Herrmann"
+    excerpt: "(she/her)   R scripts Developer - Data Management - Data Analysis"
     url: ""
     btn_label: "Meet Valentine!"
     btn_class: "btn--primary"
