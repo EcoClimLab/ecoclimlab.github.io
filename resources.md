@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Resources"
+classes: wide
 permalink: /resources/
 header:
   overlay_image: /assets/images/forest-header.jpg  # header image
