@@ -6,18 +6,18 @@ header:
   overlay_image: /assets/images/forest-header.jpg  # header image
   caption: "Photo credit: K.J. Anderson-Teixeira"
   
-feature_row:
+feature_row_employees:
   - image_path: /assets/images/people/Krista.jpg
     alt: "Krista"
     title: "Kristina (\"Krista\") J. Anderson-Teixeira"
-    excerpt: "(she/her)   Principal Investigator - Leader of ForestGEO Ecosystems & Climate Program"
+    excerpt: "Principal Investigator - Leader of ForestGEO Ecosystems & Climate Program"
     url: ""
     btn_label: "Meet Krista!"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/Valentine.jpg
     alt: "Valentine"
     title: "Valentine Herrmann"
-    excerpt: "(she/her)   R scripts Developer - Data Management - Data Analysis"
+    excerpt: "R scripts Developer - Data Management - Data Analysis"
     url: ""
     btn_label: "Meet Valentine!"
     btn_class: "btn--primary"
@@ -29,7 +29,7 @@ This page is currently under development. Visit the people page on our previous 
 # Leadership
 *The lab is led by long-term Smithsonian employees who provide significant expertise and mentorship.*
 
-{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_row_employees" %}
 
 # Postdoctoral Researchers 
 *Postdocs have recently received their PhD and are leading their own research projects while collaborating with us.*
