@@ -9,7 +9,7 @@ header:
 feature_row:
   - image_path: /assets/images/people/Krista.jpg
     alt: "Krista"
-    title: "Kristina J. Anderson-Teixeira (she/her)"
+    title: "Kristina (\"Krista\") J. Anderson-Teixeira (she/her)"
     excerpt: "Principal Investigator - Leader of ForestGEO Ecosystems & Climate Program"
     url: ""
     btn_label: "Meet Krista!"
