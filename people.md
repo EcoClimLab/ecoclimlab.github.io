@@ -18,7 +18,7 @@ feature_row_employees:
     alt: "Valentine"
     title: "Valentine Herrmann"
     excerpt: "R scripts Developer - Data Management - Data Analysis"
-    url: ""
+    url: "https://valentineherr.github.io/"
     btn_label: "Meet Valentine!"
     btn_class: "btn--primary"
 
