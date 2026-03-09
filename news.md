@@ -2,6 +2,7 @@
 title: "News"
 permalink: /news/
 layout: posts
+classes: wide
 header:
   overlay_image: /assets/images/forest-header.jpg  # header image
   caption: "Photo credit: K.J. Anderson-Teixeira"
