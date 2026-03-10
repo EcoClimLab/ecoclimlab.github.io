@@ -22,6 +22,15 @@ feature_row_employees:
     url: "https://valentineherr.github.io/"
     btn_label: "Meet Valentine!"
     btn_class: "btn--primary"
+    
+feature_row_postdocs:
+  - image_path: /assets/images/people/Krishna.jpg
+    alt: "Krishna"
+    title: "Krishna Anujan"
+    excerpt: "Postdoctral Research Fellow (STRI, NZCBI)"
+    url: ""
+    btn_label: "Meet Krishna!"
+    btn_class: "btn--primary"
 
 ---
 
@@ -34,6 +43,8 @@ This page is currently under development. Visit the people page on our previous 
 
 # Postdoctoral Researchers 
 *Postdocs have recently received their PhD and are leading their own research projects while collaborating with us.*
+
+{% include feature_row id="feature_row_postdocs" %}
 
 # Interns 
 *Interns have recently received their bachelor's degree (or soon will) and are gaining experience in forest ecology research as they explore future career options.*
