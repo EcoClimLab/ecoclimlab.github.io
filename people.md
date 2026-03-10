@@ -26,10 +26,26 @@ feature_row_employees:
 feature_row_postdocs:
   - image_path: /assets/images/people/Krishna.jpg
     alt: "Krishna"
-    title: "Krishna Anujan"
+    title: "Dr. Krishna Anujan"
     excerpt: "Postdoctral Research Fellow (STRI, NZCBI)"
     url: ""
     btn_label: "Meet Krishna!"
+    btn_class: "btn--primary"
+    
+feature_row_gradstudents:
+  - image_path: /assets/images/people/Jen.jpg
+    alt: "Jen"
+    title: "Jennifer Jordan"
+    excerpt: "Predoctoral Research Fellow (George Mason University, NZCBI)"
+    url: ""
+    btn_label: "Meet Jen!"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/people/Elliot.jpg
+    alt: "Elliot"
+    title: "Elliot Richards"
+    excerpt: "Predoctoral Research Fellow (Yale, NZCBI, Smithsonian Astrophysical Observatory)"
+    url: ""
+    btn_label: "Meet Elliot!"
     btn_class: "btn--primary"
 
 ---
@@ -46,11 +62,14 @@ This page is currently under development. Visit the people page on our previous 
 
 {% include feature_row id="feature_row_postdocs" %}
 
+# Affiliated Graduate Students 
+*Affiliated graduate students work towards their degree at a university while collaborating with us.*
+
+{% include feature_row id="feature_row_gradstudents" %}
+
 # Interns 
 *Interns have recently received their bachelor's degree (or soon will) and are gaining experience in forest ecology research as they explore future career options.*
 
-# Affiliated Graduate Students 
-*Affiliated graduate students work towards their degree at a university while collaborating with us.*
 
 # Research Associates 
 *Research associates are senior  experts in their field who contribute significantly to the Smithsonian as long-term collaborators.*
