@@ -28,7 +28,7 @@ feature_row_postdocs:
     alt: "Krishna"
     title: "Dr. Krishna Anujan"
     excerpt: "Postdoctral Research Fellow (STRI, NZCBI)"
-    url: ""
+    url: "https://krishnaanujan.github.io/"
     btn_label: "Meet Krishna!"
     btn_class: "btn--primary"
     
