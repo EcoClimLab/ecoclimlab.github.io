@@ -9,9 +9,9 @@ header:
 author_profile: true
   
 author:
-  name: "Dr. Kristina J. Anderson-Teixeira"
+  name: "Dr. Kristina (\"Krista\") J. Anderson-Teixeira"
   avatar: "/assets/images/people/Krista.jpg"
-  bio: "Forest Ecologist - Leader of ForestGEO Ecosystems & Climate Program"
+  bio: "\"Tey-SHARE-ah\" | she/her"
 
   links:
   
