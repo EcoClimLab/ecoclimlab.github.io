@@ -79,6 +79,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
+head_scripts:
+  - https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css
 twitter:
   username               :
 facebook:
