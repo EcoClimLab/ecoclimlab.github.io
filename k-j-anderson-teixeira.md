@@ -27,6 +27,10 @@ author:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-8461-9713"
       
+    - label: "Web of Science"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://www.webofscience.com/wos/author/record/U-6075-2019"
+      
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/teixeirak"
@@ -50,7 +54,7 @@ author:
 
 This page is currently under development.
 
-<i class="ai ai-orcid"></i>
+
 
 [NZCBI profile](https://nationalzoo.si.edu/conservation/kristina-j-anderson-teixeira)  
 
