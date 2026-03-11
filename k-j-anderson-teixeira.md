@@ -11,7 +11,7 @@ author_profile: true
 author:
   name: "Dr. Kristina (\"Krista\") J. Anderson-Teixeira"
   avatar: "/assets/images/people/Krista.jpg"
-  bio: "(\"Tey-SHARE-ah\" - she/her)"
+  bio: "(\"Tey-SHARE-a\" - she/her)"
 
   links:
   
