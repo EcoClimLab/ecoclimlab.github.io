@@ -55,6 +55,14 @@ feature_row_gradstudents:
     btn_label: "Meet Elliot!"
     btn_class: "btn--primary"
 
+feature_row_RAs:
+  - image_path: /assets/images/people/Luca.jpg
+    alt: "Luca"
+    title: "Luca Morreale"
+    excerpt: "NZCBI Research Associate, Postdoctoral Researcher (University of Maryland)"
+    url: "https://www.umces.edu/luca-morreale"
+    btn_label: "Meet Luca!"
+    btn_class: "btn--primary"
 ---
 
 This page is currently under development. Visit the people page on our previous website [here](https://sites.google.com/site/forestecoclimlab/people).
@@ -80,3 +88,5 @@ This page is currently under development. Visit the people page on our previous 
 
 # Research Associates 
 *Research associates are senior  experts in their field who contribute significantly to the Smithsonian as long-term collaborators.*
+
+{% include feature_row id="feature_row_RAs" %}
