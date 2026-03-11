@@ -13,15 +13,16 @@ The following is a list of publications by ForestGEO Ecosystem & Climate Lab mem
 *This differs somewhat from the complete list of publications by lab PI K.J. Anderson-Teixeira, which can be found on [Google Scholar](https://scholar.google.com/citations?user=ePcFwr4AAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-8461-9713), or [Smithsonian Profiles](https://profiles.si.edu/display/nTeixeiraK9252012).* 
 
 
-### In review/ revision (pre-prints available)
+<!--### In review/ revision (pre-prints available)
 
-### In press
+### In press-->
 
-**Anderson-Teixeira, K. J.** and **K. Anujan**. 2026. [Predicting the fate of tropical forests under intensifying heat](https://www.nature.com/articles/d41586-025-04093-2). *Nature*.
+### 2026
 
-**Anujan, K.**, S. M. McMahon, S. Bunyavejchewin, S. J. Davies, H. C. Muller-Landau, N. Pongpattananurak, and **K. J. Anderson-Teixeira**. 2026. [Drought Response Is Not a Species Trait: Tropical Tree Drought Sensitivity Is Shaped by Drought Characteristics, Species Adaptations and Individual Microenvironments](https://onlinelibrary.wiley.com/doi/10.1111/ele.70291). *Ecology Letters* 29:e70291.
+**Anderson-Teixeira, K. J.** and **K. Anujan**. 2026. [Predicting the fate of tropical forests under intensifying heat](https://www.nature.com/articles/d41586-025-04093-2). *Nature* 649(1) 1112-1113. DOI: 10.1038/d41586-025-04093-2
 
-**Magee, Lukas**; Smith, Daniel; Bauman, David; Ke, Po-Ju; Muller-Landau, Helene; **Anderson-Teixeira, Kristina**; Shue, Jessica; Orwig, David; McMahon, Sean; Bohlman, Stephanie; Crandall, Raelene; Weinstein, Ben; Marconi, Sergio; Lichstein, Jeremy; Gillooly, James; Bagchi, Robert; LaManna, Joseph; Johnson, Daniel (in press). [Memories of trees past: coexistence implications of legacy conspecific density dependence]( https://doi.org/10.1111/ele.70197). *Ecology Letters*. DOI: 10.1111/ele.70197	 
+**Anujan, K.**, S. M. McMahon, S. Bunyavejchewin, S. J. Davies, H. C. Muller-Landau, N. Pongpattananurak, and **K. J. Anderson-Teixeira**. 2026. [Drought Response Is Not a Species Trait: Tropical Tree Drought Sensitivity Is Shaped by Drought Characteristics, Species Adaptations and Individual Microenvironments](https://onlinelibrary.wiley.com/doi/10.1111/ele.70291). *Ecology Letters* 29 (1):e70291. DOI: 10.1111/ele.70291
+
 
 
 ### 2025
@@ -29,6 +30,8 @@ The following is a list of publications by ForestGEO Ecosystem & Climate Lab mem
 Bueno, I. T., C. A. Silva, **K. Anderson-Teixeira**, **L. Magee**, C. Zheng, E. N. Broadbent, A. M. A. Zambrano, and D. J. Johnson. 2025. [Aboveground Biomass and Tree Mortality Revealed Through Multi-Scale LiDAR Analysis](https://www.mdpi.com/2072-4292/17/5/796). *Remote Sensing* 17:796. DOI: 10.3390/rs17050796 
 
 Chisholm, Ryan A., Fung, Tak, **Anderson-Teixeira, Kristina**, Bourg, Norman A., Brockelman, Warren Y., Bunyavejchewin, Sarayudh, Chang-Yang, Chia, Chen, Yu-Yun, Chuyong, George B., Condit, Richard, Dattaraja, Handanakere S., Davies, Stuart J., Ediriweera, Sisira, Ewango, Corneille E. N., Fernando, Edwino S., Gunatilleke, I. A. U. N., Gunatilleke, C. V. S., Hao, Zhanqing, Howe, Robert W., Kenfack, David, Yao, Tze Leong, Makana, Jean-Remy, McMahon, Sean M., Mi, Xiangcheng, Bt. Mohamad, Mohizah, et al. 2024. [Assessing the spatial scale of synchrony in forest tree population dynamics](https://doi.org/10.1098/rspb.2024.0486). *Proceedings of the Royal Society B: Biological Sciences*, 291(2035) DOI: 10.1098/rspb.2024.0486
+
+**Magee, Lukas**; Smith, Daniel; Bauman, David; Ke, Po-Ju; Muller-Landau, Helene; **Anderson-Teixeira, Kristina**; Shue, Jessica; Orwig, David; McMahon, Sean; Bohlman, Stephanie; Crandall, Raelene; Weinstein, Ben; Marconi, Sergio; Lichstein, Jeremy; Gillooly, James; Bagchi, Robert; LaManna, Joseph; Johnson, Daniel (2025). [Memories of trees past: coexistence implications of legacy conspecific density dependence]( https://doi.org/10.1111/ele.70197). *Ecology Letters* 28 (10): e70197. DOI: 10.1111/ele.70197	 
 
 The International Tree Mortality Network [>100 authors including **K.J. Anderson-Teixeira**], 2025. [Towards a global understanding of tree mortality](https://doi.org/10.1111/nph.20407). *New Phytologist*. DOI: 10.1111/nph.20407.  
 
