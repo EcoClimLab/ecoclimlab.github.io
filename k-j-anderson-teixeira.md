@@ -40,3 +40,7 @@ author:
 ---
 
 This page is currently under development.
+
+[SCBI profile](https://nationalzoo.si.edu/conservation/kristina-j-anderson-teixeira)  
+
+[STRI profile](http://www.stri.si.edu/english/scientific_staff/staff_scientist/scientist.php?id=72)
