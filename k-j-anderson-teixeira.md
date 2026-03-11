@@ -24,7 +24,7 @@ author:
       url: "https://scholar.google.com/citations?user=ePcFwr4AAAAJ&hl=en"
       
     - label: "ORCID"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-8461-9713"
       
     - label: "GitHub"
@@ -36,7 +36,7 @@ author:
       url: "https://www.linkedin.com/in/kristina-anderson-teixeira-843a9930/"
       
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Kristina-Anderson-Teixeira"
       
     - label: "Bluesky"
