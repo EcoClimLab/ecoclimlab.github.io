@@ -51,7 +51,7 @@ feature_row_gradstudents:
     alt: "Elliot"
     title: "Elliot Richards"
     excerpt: "Predoctoral Research Fellow (Yale, NZCBI, Smithsonian Astrophysical Observatory)"
-    url: ""
+    url: "/people/elliot-richards/"
     btn_label: "Meet Elliot!"
     btn_class: "btn--primary"
 

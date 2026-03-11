@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "K. J. Anderson-Teixeira"
+title: "Kristina J. Anderson-Teixeira"
 permalink: /people/k-j-anderson-teixeira/
 header:
   overlay_image: /assets/images/forest-header.jpg  # header image
