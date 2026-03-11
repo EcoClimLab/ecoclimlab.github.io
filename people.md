@@ -33,6 +33,13 @@ feature_row_postdocs:
     btn_class: "btn--primary"
     
 feature_row_gradstudents:
+  - image_path: /assets/images/people/Cameron.jpg
+    alt: "Cameron"
+    title: "Cameron Dow"
+    excerpt: "Predoctoral Research Fellow (University of West Virginia, NZCBI)"
+    url: "https://biology.wvu.edu/faculty-and-staff/graduate-students/dow-cameron"
+    btn_label: "Meet Cameron!"
+    btn_class: "btn--primary"
   - image_path: /assets/images/people/Jen.jpg
     alt: "Jen"
     title: "Jennifer Jordan"
