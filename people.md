@@ -65,7 +65,7 @@ feature_row_RAs:
     btn_class: "btn--primary"
 ---
 
-This page is currently under development. Visit the people page on our previous website [here](https://sites.google.com/site/forestecoclimlab/people).
+*This page is currently under development, and some info is incomplete.*
 
 # Leadership
 *The lab is led by long-term Smithsonian employees who provide significant expertise and mentorship.*
@@ -87,6 +87,6 @@ This page is currently under development. Visit the people page on our previous 
 
 
 # Research Associates 
-*Research associates are senior  experts in their field who contribute significantly to the Smithsonian as long-term collaborators.*
+*Research associates are senior  experts in their field who contribute significantly to the Smithsonian as long-term collaborators. Those listed here are currently engaged in active collaborations with this lab.*
 
 {% include feature_row id="feature_row_RAs" %}
