@@ -19,7 +19,7 @@ author:
       url: "https://scholar.google.com/citations?user=ePcFwr4AAAAJ&hl=en"
       
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      icon: "ai ai-orcidfa-fw"
       url: "https://orcid.org/0000-0001-8461-9713"
       
     - label: "GitHub"
@@ -31,7 +31,7 @@ author:
       url: "https://www.linkedin.com/in/kristina-anderson-teixeira-843a9930/"
       
     - label: "ResearchGate"
-      icon: "ai ai-researchgate"
+      icon: "ai ai-researchgate fa-fw"
       url: "https://www.researchgate.net/profile/Kristina-Anderson-Teixeira"
       
     - label: "Bluesky"
@@ -44,6 +44,8 @@ author:
 ---
 
 This page is currently under development.
+
+<i class="ai ai-orcid"></i>
 
 [NZCBI profile](https://nationalzoo.si.edu/conservation/kristina-j-anderson-teixeira)  
 
