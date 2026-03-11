@@ -14,6 +14,11 @@ author:
   bio: "Forest Ecologist - Leader of ForestGEO Ecosystems & Climate Program"
 
   links:
+  
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:teixeirak@si.edu"
+      
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ePcFwr4AAAAJ&hl=en"
