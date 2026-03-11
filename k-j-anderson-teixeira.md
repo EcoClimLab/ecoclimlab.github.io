@@ -30,6 +30,10 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/kristina-anderson-teixeira-843a9930/"
       
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Kristina-Anderson-Teixeira"
+      
     - label: "Bluesky"
       icon: "fas fa-cloud"
       url: "https://bsky.app/profile/k-andersonteixeira.bsky.social"
