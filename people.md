@@ -82,8 +82,8 @@ feature_row_RAs:
 
 {% include feature_row id="feature_row_gradstudents" %}
 
-# Interns 
-*Interns have recently received their bachelor's degree (or soon will) and are gaining experience in forest ecology research as they explore future career options.*
+# Interns & REU Students
+<!--*Interns have recently received their bachelor's degree (or soon will) and are gaining experience in forest ecology research as they explore future career options.*-->
 
 
 # Research Associates 
