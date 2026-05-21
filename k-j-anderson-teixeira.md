@@ -21,7 +21,7 @@ author:
       
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=ePcFwr4AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?hl=en&tzom=240&user=pVEcgngAAAAJ"
       
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"

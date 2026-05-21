@@ -10,18 +10,28 @@ author_profile: false
 ---
 
 The following is a list of publications by ForestGEO Ecosystem & Climate Lab members (indicated in bold). 
-*This differs somewhat from the complete list of publications by lab PI K.J. Anderson-Teixeira, which can be found on [Google Scholar](https://scholar.google.com/citations?user=ePcFwr4AAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-8461-9713), or [Smithsonian Profiles](https://profiles.si.edu/display/nTeixeiraK9252012).* 
+*This differs somewhat from the complete list of publications by lab PI K.J. Anderson-Teixeira, which can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&tzom=240&user=pVEcgngAAAAJ), [ORCiD](https://orcid.org/0000-0001-8461-9713), or [Smithsonian Profiles](https://profiles.si.edu/display/nTeixeiraK9252012).* 
 
 
-<!--### In review/ revision (pre-prints available)
+### In review/ revision (pre-prints available)
 
-### In press-->
+Vinod, N., C. Medeiros, M. Browne, A. Ongjoco, H. Deurwaerder, J. Zailaa, C. Henry, S. Trueba, N. Kunert, K. C. Cushman, J. A. Franklin, N. M. Holbrook, D. Orwig, S. McMahon, J. Shue, G. John, D. Johnson, N. Kraft, J. Lutz, R. Alonzo, A. Trugman, J. D. Wood, **K. Anderson-Teixeira**, M. Detto, and L. Sack. 2026, April 20. [Priorities of woody species trait-climate associations at continental scale](https://www.researchsquare.com/article/rs-9188810/v1). Research Square.
+
+
+### In press
+
+Yan, H., X. Liu, B. Schmid, Y. Li, **K. J. Anderson-Teixeira**, S. Both, N. A. Bourg, D. F. R. P. Burslem, C. Chu, K. Clay, H. Du, N. R. Guerrero-Ramírez, H. Huang, D. J. Johnson, G. Jin, L. Lin, F. Liu, Y. Liu, W. J. McShea, X. Mi, J. A. Myers, J. Nie, M. J. O’Brien, R. P. Phillips, X. Qiao, G. Reynolds, G. Shen, M. J. Spasojevic, H. Su, S. Xia, X. Xu, E. Yan, X. Yang, J. Yang, Y. Zhu, K. Ma, and Y. Hautier. 2026. [Tree diversity–soil organic carbon relationships strengthen under colder and more arid conditions](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71242). *New Phytologist* n/a. DOI: 10.1111/nph.71242
+
 
 ### 2026
 
 **Anderson-Teixeira, K. J.** and **K. Anujan**. 2026. [Predicting the fate of tropical forests under intensifying heat](https://www.nature.com/articles/d41586-025-04093-2). *Nature* 649(1) 1112-1113. DOI: 10.1038/d41586-025-04093-2
 
 **Anujan, K.**, S. M. McMahon, S. Bunyavejchewin, S. J. Davies, H. C. Muller-Landau, N. Pongpattananurak, and **K. J. Anderson-Teixeira**. 2026. [Drought Response Is Not a Species Trait: Tropical Tree Drought Sensitivity Is Shaped by Drought Characteristics, Species Adaptations and Individual Microenvironments](https://onlinelibrary.wiley.com/doi/10.1111/ele.70291). *Ecology Letters* 29 (1):e70291. DOI: 10.1111/ele.70291
+
+Li, Y., J. Xiao, Y. Jiang, S. J. Wright, M. M. Mayfield, O. Godoy, A. Alonso, **K. J. Anderson-Teixeira**, J. Baltzer, J. D. Birch, P. Bissiengou, N. A. Bourg, W. Brockelman, D. F. R. P. Burslem, M. Cao, K. Clay, S. J. Davies, Q. Du, S. Ediriweera, A. Feistner, E. S. Fernando, G. S. Gilbert, Z. Hao, J. Holík, M. Jiang, G. Jin, D. J. Johnson, A. S. Jones, K. Král, A. J. Larson, B. Li, J. Lian, L. Lin, F. Liu, Y. Liu, Z. Liu, J. A. Lutz, K. Ma, S. M. McMahon, W. McShea, H. R. Memiaghe, X. Mi, J. A. Myers, M. Nasardin, A. Nathalang, M. J. O’Brien, N. L. E. Obiang, G. Parker, R. P. Phillips, X. Qiao, H. Ren, G. Reynolds, L. J. V. Rodriguez, P. Šamonil, G. Shen, Z. Shu, J. Shue, M. E. Swanson, J. Thompson, M. Uriarte, X. Wang, X. Wang, Y. Wang, T. L. Yao, W. Ye, M. Yu, M. Zhang, Y. Zhu, J. Zimmerman, F. He, and C. Chu. 2026. [Higher-order interactions enhance the latitudinal tree diversity gradient](https://www.nature.com/articles/s41586-026-10434-6). *Nature* 653:433–438. DOI: 10.1038/s41586-026-10434-6
+
+
 
 
 
