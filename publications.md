@@ -23,6 +23,8 @@ Vinod, N., C. Medeiros, M. Browne, A. Ongjoco, H. Deurwaerder, J. Zailaa, C. Hen
 Yan, H., X. Liu, B. Schmid, Y. Li, **K. J. Anderson-Teixeira**, S. Both, N. A. Bourg, D. F. R. P. Burslem, C. Chu, K. Clay, H. Du, N. R. Guerrero-Ramírez, H. Huang, D. J. Johnson, G. Jin, L. Lin, F. Liu, Y. Liu, W. J. McShea, X. Mi, J. A. Myers, J. Nie, M. J. O’Brien, R. P. Phillips, X. Qiao, G. Reynolds, G. Shen, M. J. Spasojevic, H. Su, S. Xia, X. Xu, E. Yan, X. Yang, J. Yang, Y. Zhu, K. Ma, and Y. Hautier. 2026. [Tree diversity–soil organic carbon relationships strengthen under colder and more arid conditions](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71242). *New Phytologist* n/a. DOI: 10.1111/nph.71242
 
 
+Mas, E., **K.J. Anderson-Teixeira, K.J.**, J.Brändle, S. J. Davies, H. B. Omar, V. Herrmann, Y. Kosugi, S.S. McMahon, J. A. Medina-Vega, I.K. Münchinger, L. Sack, Y.T. Leong, N. Kunert. 2026. Species’ spatial distribution is not associated with leaf turgor loss point in an aseasonal wet tropical lowland forest. *Biotropica*
+
 ### 2026
 
 **Anderson-Teixeira, K. J.** and **K. Anujan**. 2026. [Predicting the fate of tropical forests under intensifying heat](https://www.nature.com/articles/d41586-025-04093-2). *Nature* 649(1) 1112-1113. DOI: 10.1038/d41586-025-04093-2
