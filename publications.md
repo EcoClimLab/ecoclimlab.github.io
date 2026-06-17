@@ -18,8 +18,9 @@ The following is a list of publications by ForestGEO Ecosystem & Climate Lab mem
 Vinod, N., C. Medeiros, M. Browne, A. Ongjoco, H. Deurwaerder, J. Zailaa, C. Henry, S. Trueba, N. Kunert, K. C. Cushman, J. A. Franklin, N. M. Holbrook, D. Orwig, S. McMahon, J. Shue, G. John, D. Johnson, N. Kraft, J. Lutz, R. Alonzo, A. Trugman, J. D. Wood, **K. Anderson-Teixeira**, M. Detto, and L. Sack. 2026, April 20. [Priorities of woody species trait-climate associations at continental scale](https://www.researchsquare.com/article/rs-9188810/v1). Research Square.
 
 
-<!--### In press-->
+### In press
 
+Caiwang Zheng et al. (in press) Discriminating temporal decline and death of a savanna oak using multi-year imaging spectroscopy. *Remote Sensing Applications: Society and Environment*
 
 
 ### 2026
