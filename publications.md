@@ -20,7 +20,7 @@ Vinod, N., C. Medeiros, M. Browne, A. Ongjoco, H. Deurwaerder, J. Zailaa, C. Hen
 
 ### In press
 
-Mas, E., **K.J. Anderson-Teixeira, K.J.**, J.Brändle, S. J. Davies, H. B. Omar, V. Herrmann, Y. Kosugi, S.S. McMahon, J. A. Medina-Vega, I.K. Münchinger, L. Sack, Y.T. Leong, N. Kunert. 2026. Species’ spatial distribution is not associated with leaf turgor loss point in an aseasonal wet tropical lowland forest. *Biotropica*
+Mas, E., **K.J. Anderson-Teixeira, K.J.**, J.Brändle, S. J. Davies, H. B. Omar, V. Herrmann, Y. Kosugi, S.S. McMahon, J. A. Medina-Vega, I.K. Münchinger, L. Sack, Y.T. Leong, N. Kunert. 2026. [Species’ spatial distribution is not associated with leaf turgor loss point in an aseasonal wet tropical lowland forest](https://onlinelibrary.wiley.com/doi/10.1111/btp.70230). *Biotropica* 58(4): e70230. DOI: 10.1111/btp.70230.
 
 ### 2026
 
