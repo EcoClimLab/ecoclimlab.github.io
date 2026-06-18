@@ -44,7 +44,7 @@ feature_row_gradstudents:
     alt: "Jen"
     title: "Jennifer Jordan"
     excerpt: "Predoctoral Research Fellow (George Mason University, NZCBI)"
-    url: ""
+    url: "https://www.linkedin.com/in/jen-jordan-4037193a/"
     btn_label: "Meet Jen!"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/Elliot.jpg
@@ -81,7 +81,6 @@ feature_row_RAs:
     btn_class: "btn--primary"
 ---
 
-*This page is currently under development, and some info is incomplete.*
 
 # Leadership
 *The lab is led by long-term Smithsonian employees who provide significant expertise and mentorship.*
