@@ -67,7 +67,7 @@ feature_row_interns&REUs:
     alt: "Charlie"
     title: "Charlie Shivers IV"
     excerpt: "REU Student (Smithsonian Mason School of Conservation)"
-    url: ""
+    url: "https://www.linkedin.com/in/charlie-shivers-iv-707637320/"
     btn_label: "Meet Charlie!"
     btn_class: "btn--primary"
 
