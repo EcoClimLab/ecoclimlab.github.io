@@ -54,6 +54,22 @@ feature_row_gradstudents:
     url: "/people/elliot-richards/"
     btn_label: "Meet Elliot!"
     btn_class: "btn--primary"
+    
+feature_row_interns&REUs:
+  - image_path: /assets/images/people/Cody.jpg
+    alt: "Cody"
+    title: "Cody"
+    excerpt: "Intern"
+    url: "https://www.linkedin.com/in/cody-konfrst/"
+    btn_label: "Meet Cody!"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/people/Charlie.jpg
+    alt: "Charlie"
+    title: "Charlie Shivers IV"
+    excerpt: "REU Student (Smithsonian Mason School of Conservation)"
+    url: ""
+    btn_label: "Meet Charlie!"
+    btn_class: "btn--primary"
 
 feature_row_RAs:
   - image_path: /assets/images/people/Luca.jpg
@@ -83,10 +99,11 @@ feature_row_RAs:
 {% include feature_row id="feature_row_gradstudents" %}
 
 # Interns & REU Students
-<!--*Interns have recently received their bachelor's degree (or soon will) and are gaining experience in forest ecology research as they explore future career options.*-->
+*Interns and REU students are working towards or have recently received their bachelor's degree and are gaining experience in forest ecology research as they explore future career options.*
 
+{% include feature_row id="feature_row_interns&REUs" %}
 
 # Research Associates 
-*Research associates are senior  experts in their field who contribute significantly to the Smithsonian as long-term collaborators. Those listed here are currently engaged in active collaborations with this lab.*
+*Research associates are senior experts in their field who contribute significantly to the Smithsonian as long-term collaborators. Those listed here are currently engaged in active collaborations with this lab.*
 
 {% include feature_row id="feature_row_RAs" %}
