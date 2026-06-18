@@ -58,7 +58,7 @@ feature_row_gradstudents:
 feature_row_interns&REUs:
   - image_path: /assets/images/people/Cody.jpg
     alt: "Cody"
-    title: "Cody"
+    title: "Cody Konfrst"
     excerpt: "Intern"
     url: "https://www.linkedin.com/in/cody-konfrst/"
     btn_label: "Meet Cody!"
