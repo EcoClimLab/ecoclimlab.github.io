@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Research"
+classes: wide
 permalink: /research/
 header:
   overlay_image: /assets/images/forest-header.jpg  # header image
@@ -24,7 +25,7 @@ feature_row_c&i:
   - image_path: /assets/images/scbi-plot.jpg
     alt: "SCBI ForestGEO"
     title: "SCBI ForestGEO plot"
-    excerpt: "..."
+    excerpt: "The Smithsonian Conservation Biology Institute (SCBI) hosts a 25.6 ha ForestGEO plot."
     url: "https://forestgeo.si.edu/sites/north-america/smithsonian-conservation-biology-institute"
     btn_label: "Explore SCBI ForestGEO"
     btn_class: "btn--primary"
@@ -33,4 +34,5 @@ feature_row_c&i:
 This page is currently under development. Visit the research page on our current site [here](https://sites.google.com/site/forestecoclimlab/research).
 
 # **Research Consortia and Infrastructure** 
+
 {% include feature_row id="feature_row_c&i" %}
