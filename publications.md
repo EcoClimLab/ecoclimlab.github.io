@@ -20,7 +20,7 @@ Vinod, N., C. Medeiros, M. Browne, A. Ongjoco, H. Deurwaerder, J. Zailaa, C. Hen
 
 ### In press
 
-Caiwang Zheng et al. (in press) Discriminating temporal decline and death of a savanna oak using multi-year imaging spectroscopy. *Remote Sensing Applications: Society and Environment*
+Caiwang Zheng et al. (in press) [Discriminating temporal decline and death of a savanna oak using multi-year imaging spectroscopy](https://www-sciencedirect-com.smithsonian.idm.oclc.org/science/article/abs/pii/S2352938526002508). *Remote Sensing Applications: Society and Environment*
 
 
 ### 2026
