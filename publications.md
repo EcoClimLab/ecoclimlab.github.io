@@ -20,7 +20,6 @@ Vinod, N., C. Medeiros, M. Browne, A. Ongjoco, H. Deurwaerder, J. Zailaa, C. Hen
 
 ### In press
 
-Caiwang Zheng et al. (in press) [Discriminating temporal decline and death of a savanna oak using multi-year imaging spectroscopy](https://www-sciencedirect-com.smithsonian.idm.oclc.org/science/article/abs/pii/S2352938526002508). *Remote Sensing Applications: Society and Environment*
 
 
 ### 2026
@@ -29,12 +28,15 @@ Caiwang Zheng et al. (in press) [Discriminating temporal decline and death of a 
 
 **Anujan, K.**, S. M. McMahon, S. Bunyavejchewin, S. J. Davies, H. C. Muller-Landau, N. Pongpattananurak, and **K. J. Anderson-Teixeira**. 2026. [Drought Response Is Not a Species Trait: Tropical Tree Drought Sensitivity Is Shaped by Drought Characteristics, Species Adaptations and Individual Microenvironments](https://onlinelibrary.wiley.com/doi/10.1111/ele.70291). *Ecology Letters* 29 (1):e70291. DOI: 10.1111/ele.70291
 
+Boeschoten, L. E., C. M. Smith-Martin, J. A. Medina-Vega, **K. J. Anderson-Teixeira**, L. A. E. Ruiz, R. A. Montgomery, M. Picón, M. P. Rao, T. E. Wood, X. Xu, J. K. Zimmerman, and M. Uriarte. 2026. [Water Limits Radial Tree Growth More Than Light in an Everwet Subtropical Forest]( https://doi.org/10.1111/gcb.71021). *Global Change Biology* 32:e71021. DOI: 10.1111/gcb.71021.
+
 Li, Y., J. Xiao, Y. Jiang, S. J. Wright, M. M. Mayfield, O. Godoy, A. Alonso, **K. J. Anderson-Teixeira**, J. Baltzer, J. D. Birch, P. Bissiengou, N. A. Bourg, W. Brockelman, D. F. R. P. Burslem, M. Cao, K. Clay, S. J. Davies, Q. Du, S. Ediriweera, A. Feistner, E. S. Fernando, G. S. Gilbert, Z. Hao, J. Holík, M. Jiang, G. Jin, D. J. Johnson, A. S. Jones, K. Král, A. J. Larson, B. Li, J. Lian, L. Lin, F. Liu, Y. Liu, Z. Liu, J. A. Lutz, K. Ma, S. M. McMahon, W. McShea, H. R. Memiaghe, X. Mi, J. A. Myers, M. Nasardin, A. Nathalang, M. J. O’Brien, N. L. E. Obiang, G. Parker, R. P. Phillips, X. Qiao, H. Ren, G. Reynolds, L. J. V. Rodriguez, P. Šamonil, G. Shen, Z. Shu, J. Shue, M. E. Swanson, J. Thompson, M. Uriarte, X. Wang, X. Wang, Y. Wang, T. L. Yao, W. Ye, M. Yu, M. Zhang, Y. Zhu, J. Zimmerman, F. He, and C. Chu. 2026. [Higher-order interactions enhance the latitudinal tree diversity gradient](https://www.nature.com/articles/s41586-026-10434-6). *Nature* 653:433–438. DOI: 10.1038/s41586-026-10434-6
 
 Mas, E., **K.J. Anderson-Teixeira, K.J.**, J.Brändle, S. J. Davies, H. B. Omar, V. Herrmann, Y. Kosugi, S.S. McMahon, J. A. Medina-Vega, I.K. Münchinger, L. Sack, Y.T. Leong, N. Kunert. 2026. [Species’ spatial distribution is not associated with leaf turgor loss point in an aseasonal wet tropical lowland forest](https://onlinelibrary.wiley.com/doi/10.1111/btp.70230). *Biotropica* 58(4): e70230. DOI: 10.1111/btp.70230.
 
 Yan, H., X. Liu, B. Schmid, Y. Li, **K. J. Anderson-Teixeira**, S. Both, N. A. Bourg, D. F. R. P. Burslem, C. Chu, K. Clay, H. Du, N. R. Guerrero-Ramírez, H. Huang, D. J. Johnson, G. Jin, L. Lin, F. Liu, Y. Liu, W. J. McShea, X. Mi, J. A. Myers, J. Nie, M. J. O’Brien, R. P. Phillips, X. Qiao, G. Reynolds, G. Shen, M. J. Spasojevic, H. Su, S. Xia, X. Xu, E. Yan, X. Yang, J. Yang, Y. Zhu, K. Ma, and Y. Hautier. 2026. [Tree diversity–soil organic carbon relationships strengthen under colder and more arid conditions](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71242). *New Phytologist* 251:120–134. DOI: 10.1111/nph.71242
 
+Zheng, C., L. Magee, D. Cayetano, K. D. Rocha, Y. Lu, S. Bohlman, **K. Anderson-Teixeira**, J. A. Lutz, C. Silva, and D. J. Johnson. 2026. [Discriminating temporal decline and death of a savanna oak using multi-year imaging spectroscopy](https://www.sciencedirect.com/science/article/pii/S2352938526002508). *Remote Sensing Applications: Society and Environment* 43:102117. DOI: 10.1016/j.rsase.2026.102117.
 
 
 ### 2025
