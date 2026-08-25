@@ -23,7 +23,7 @@ Front Royal, VA 22630 USA
 This lab adheres to the [ForestGEO Code of Conduct](https://forestgeo.si.edu/what-forestgeo/code-conduct) and the NZCBI expectations of conduct for field work (document available upon request). All lab members and affiliates are expected to abide by this Code of Conduct during any activities in which they are associated with the lab.
 
 # FOR PROSPECTIVE LAB MEMBERS
-The ForestGEO Ecosystems & Climate lab at the Smithsonian Conservation Biology Institute (Front Royal, VA) is includes postdocs, interns (most of whom have a BS and sometimes an MS), and other professionals/ academics.
+The ForestGEO Ecosystems & Climate lab at the Smithsonian Conservation Biology Institute (Front Royal, VA) includes postdocs, interns (most of whom have a BS and sometimes an MS), and other professionals/ academics.
 We have a partnership with the [Smithsonian - Mason School for Conservation (SMSC)](https://smconservation.gmu.edu/) and regularly benefit from the participation of SMSC practicum students and REU's.
 
 ## Current Opportunities
