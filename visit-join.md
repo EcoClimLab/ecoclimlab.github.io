@@ -8,18 +8,11 @@ header:
 ---
 
 # Contact Info
-**DR. KRISTINA J. ANDERSON-TEIXEIRA**
-
-1-540-625-6546
-
-TeixeiraK@si.edu
 
 **ADDRESS:**
 
 Smithsonian Conservation Biology Institute
-
 1500 Remount Rd. MRC 5535
-
 Front Royal, VA 22630 USA
 
 <!--insert map-->
@@ -39,5 +32,5 @@ We have a partnership with the [Smithsonian - Mason School for Conservation (SMS
 
 [**ForestGEO positions**](https://forestgeo.si.edu/training-and-fellowships) - The ForestGEO website lists training and fellowship opportunities across ForestGEO, including in our lab.  
 
-# FOR VISITORS
+<!--# FOR VISITORS-->
 
