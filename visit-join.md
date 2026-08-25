@@ -8,3 +8,6 @@ header:
 ---
 
 This page is currently under development.  Visit the page on our previous website [here](https://sites.google.com/site/forestecoclimlab/visit).
+
+## Opportunities
+[**Postdoctoral Fellowship in Temperate Forest Biomass Dynamics – ForestGEO and GEO-TREES**](/visit-join/2026-temperate-forest-postdoc/) -- coming soon!
