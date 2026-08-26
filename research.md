@@ -45,7 +45,7 @@ This page is currently under development. Visit the research page on our current
 # **Research Consortia and Infrastructure** 
 
 {% include feature_row id="feature_row_c&i" %}
-
+<!--
 # **Current Projects**
 
-{% include feature_row id="feature_row_projects" %}
+{% include feature_row id="feature_row_projects" %}-->
