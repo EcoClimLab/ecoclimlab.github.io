@@ -30,13 +30,6 @@ feature_row_c&i:
     btn_label: "Explore SCBI ForestGEO"
     btn_class: "btn--primary"
     
-feature_row_projects:
-  - image_path: /assets/images/LTREB.jpg
-    title: "Global Change Impacts on a Temperate Deciduous Forest"
-    excerpt: "With support from an NSF LTREB, "Disentangling mechanisms through which global change may reverse the carbon sink of a temperate deciduous forest", we are working to understand how various global change drivers are impacting the SCBI ForestGEO plot and beyond."
-    url: "/research/LTREB/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
     
 ---
 
@@ -45,7 +38,4 @@ This page is currently under development. Visit the research page on our current
 # **Research Consortia and Infrastructure** 
 
 {% include feature_row id="feature_row_c&i" %}
-<!--
-# **Current Projects**
 
-{% include feature_row id="feature_row_projects" %}-->
