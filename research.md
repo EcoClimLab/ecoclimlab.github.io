@@ -15,6 +15,7 @@ feature_row_c&i:
     url: "https://forestgeo.si.edu/"
     btn_label: "Explore ForestGEO"
     btn_class: "btn--primary"
+    
   - image_path: /assets/images/geotrees.jpg
     alt: "GEO-TREES"
     title: "GEO-TREES"
@@ -22,6 +23,7 @@ feature_row_c&i:
     url: "https://www.geo-trees.org/"
     btn_label: "Explore GEO-TREES"
     btn_class: "btn--primary"
+    
   - image_path: /assets/images/scbi-plot.jpg
     alt: "SCBI ForestGEO"
     title: "SCBI ForestGEO plot"
@@ -39,6 +41,22 @@ feature_row_projects:
     btn_label: "Learn More"
     btn_class: "btn--primary"
     
+  - image_path: /assets/images/tGEO-TREES.jpg
+    alt: "Temperate GEO-TREES"
+    title: "Temperate GEO-TREES"
+    excerpt: "..."
+    url: "/research/temperate-geotrees/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+    
+  - image_path: /assets/images/temperate-geotrees.jpg
+    alt: "tropical tree growth"
+    title: "Climate Sensitivity of Tropical Tree Growth"
+    excerpt: "..."
+    url: "/research/tropical-tree-growth/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+    
 ---
 
 This page is currently under development. Visit the research page on our current site [here](https://sites.google.com/site/forestecoclimlab/research).
@@ -47,6 +65,6 @@ This page is currently under development. Visit the research page on our current
 
 {% include feature_row id="feature_row_c&i" %}
 
-# **Current Projects** 
+# **Current Initiatives** 
 
 {% include feature_row id="feature_row_projects" %}
