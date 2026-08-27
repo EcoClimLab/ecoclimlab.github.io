@@ -1,24 +1,16 @@
 # main links
 main:
   - title: "About"
-    url: /about/
-  - title: "News"
-    url: /news/
-  - title: "People"
-    url: /people/
-    children:
-      - title: "Kristina J. Anderson-Teixeira"
-        url: /people/k-j-anderson-teixeira/
-      - title: "Elliot Richards"
-        url: /people/elliot-richards/
-  - title: "Publications"
-    url: /publications/
+    url: /about/  
   - title: "Research"
     url: /research/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
+  - title: "News"
+    url: /news/
   - title: "Resources"
     url: /resources/
-    children:
-      - title: "Older Data"
-        url: /resources/older-data/
   - title: "Visit / Join"
     url: /visit-join/
