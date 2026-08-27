@@ -57,6 +57,22 @@ feature_row_projects:
     btn_label: "Learn More"
     btn_class: "btn--primary"
     
+  - image_path: /assets/images/forest-microwave-imaging.jpg
+    alt: "Forest Microwave Imaging"
+    title: "Forest Microwave Imaging"
+    excerpt: "In collaboration with The Smithosnian Astrophysical Observatory, Yale University, and others, we are pioneering a technique to create 3D forest images -- complete with material properties -- using Passive Interferometric Microwave Imaging."
+    url: "/research/forest-microwave-imaging/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+    
+  - image_path: /assets/images/global-forest-biomass-loss.jpg
+    alt: "Global Forest Biomass Loss"
+    title: "Global Drivers and Mitigation of Forest Biomass Loss"
+    excerpt: "We are leading a global team to identify drivers of forest biomass loss and effective interventions."
+    url: "/research/global-forest-biomass-loss/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+    
 ---
 
 # **Research Consortia and Infrastructure** 
