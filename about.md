@@ -14,7 +14,7 @@ feature_row:
     btn_label: "Explore ForestGEO"
     btn_class: "btn--primary"
   - image_path: /assets/images/nzcbi-logo.jpg
-    title: "Smithsonian's National Zoo & Conservation Biology Institute (NZCBI)"
+    title: "Smithsonian's National Zoo & Conservation Biology Institute"
     excerpt: ""
     url: "https://nationalzoo.si.edu/conservation"
     btn_label: "Explore NZCBI Conservation"
