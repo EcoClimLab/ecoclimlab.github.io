@@ -25,7 +25,7 @@ feature_row_c&i:
   - image_path: /assets/images/scbi-plot.jpg
     alt: "SCBI ForestGEO"
     title: "SCBI ForestGEO plot"
-    excerpt: "The Smithsonian Conservation Biology Institute (SCBI) hosts a 25.6 ha ForestGEO plot."
+    excerpt: "The Smithsonian Conservation Biology Institute (SCBI) hosts a 25.6 ha ForestGEO plot and is a GEO-TREES site."
     url: "https://forestgeo.si.edu/sites/north-america/smithsonian-conservation-biology-institute"
     btn_label: "Explore SCBI ForestGEO"
     btn_class: "btn--primary"
@@ -39,3 +39,4 @@ This page is currently under development. Visit the research page on our current
 
 {% include feature_row id="feature_row_c&i" %}
 
+# **Current Projects** 
