@@ -44,7 +44,7 @@ feature_row_projects:
   - image_path: /assets/images/tGEO-TREES.jpg
     alt: "Temperate GEO-TREES"
     title: "Temperate GEO-TREES"
-    excerpt: "..."
+    excerpt: "We are working to develop the temperate component of GEO-TREES, a global network of scientists and forest research sites providing high-accuracy ground data for satellite-derived biomass mapping."
     url: "/research/temperate-geotrees/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
@@ -52,14 +52,12 @@ feature_row_projects:
   - image_path: /assets/images/tropical-trees.jpg
     alt: "tropical tree growth"
     title: "Climate Sensitivity of Tropical Tree Growth"
-    excerpt: "..."
+    excerpt: "We are using ForestGEO's unparalleled long-term measurements of tree growth to understand the interannual climate sensitivity of tropical tree growth."
     url: "/research/tropical-tree-growth/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
     
 ---
-
-This page is currently under development. Visit the research page on our current site [here](https://sites.google.com/site/forestecoclimlab/research).
 
 # **Research Consortia and Infrastructure** 
 
