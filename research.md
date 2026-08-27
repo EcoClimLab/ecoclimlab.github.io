@@ -49,7 +49,7 @@ feature_row_projects:
     btn_label: "Learn More"
     btn_class: "btn--primary"
     
-  - image_path: /assets/images/temperate-geotrees.jpg
+  - image_path: /assets/images/tropical-trees.jpg
     alt: "tropical tree growth"
     title: "Climate Sensitivity of Tropical Tree Growth"
     excerpt: "..."
@@ -65,6 +65,6 @@ This page is currently under development. Visit the research page on our current
 
 {% include feature_row id="feature_row_c&i" %}
 
-# **Current Initiatives** 
+# **Current Research Initiatives** 
 
 {% include feature_row id="feature_row_projects" %}
