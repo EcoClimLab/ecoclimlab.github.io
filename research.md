@@ -41,7 +41,7 @@ feature_row_projects:
     btn_label: "Learn More"
     btn_class: "btn--primary"
     
-  - image_path: /assets/images/tGEO-TREES.jpg
+  - image_path: /assets/images/SCBItransect-cropped.jpg
     alt: "Temperate GEO-TREES"
     title: "Temperate GEO-TREES"
     excerpt: "We are working to develop the temperate component of GEO-TREES, a global network of scientists and forest research sites providing high-accuracy ground data for satellite-derived biomass mapping."
