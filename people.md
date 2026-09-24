@@ -67,7 +67,7 @@ feature_row_advanced_interns:
     alt: "Conner"
     title: "Conner Reed"
     excerpt: "Advanced Research Intern"
-    url: " https://www.linkedin.com/in/conner-r-9362511b4/"
+    url: "https://www.linkedin.com/in/conner-r-9362511b4/"
     btn_label: "Meet Conner!"
     btn_class: "btn--primary"
     
