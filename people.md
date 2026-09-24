@@ -75,7 +75,7 @@ feature_row_interns&REUs:
   - image_path: /assets/images/people/Charlie.jpg
     alt: "Charlie"
     title: "Charlie Shivers IV"
-    excerpt: "Incoming Research Intern (summer 2027)"
+    excerpt: "Incoming (returning) Research Intern (summer 2027)"
     url: "https://www.linkedin.com/in/charlie-shivers-iv-707637320/"
     btn_label: "Meet Charlie!"
     btn_class: "btn--primary"
