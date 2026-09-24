@@ -22,6 +22,13 @@ feature_row_employees:
     url: "https://valentineherr.github.io/"
     btn_label: "Meet Valentine!"
     btn_class: "btn--primary"
+  - image_path: /assets/images/people/Iris.jpg
+    alt: "Iris"
+    title: "Iris Kennedy"
+    excerpt: "Biolgoical Research Technician"
+    url: "https://www.linkedin.com/in/iris-kennedy-89b8411a2/"
+    btn_label: "Meet Iris!"
+    btn_class: "btn--primary"
     
 feature_row_postdocs:
   - image_path: /assets/images/people/Krishna.jpg
@@ -55,21 +62,25 @@ feature_row_gradstudents:
     btn_label: "Meet Elliot!"
     btn_class: "btn--primary"
     
-feature_row_interns&REUs:
-  - image_path: /assets/images/people/Cody.jpg
-    alt: "Cody"
-    title: "Cody Konfrst"
-    excerpt: "Intern"
-    url: "https://www.linkedin.com/in/cody-konfrst/"
-    btn_label: "Meet Cody!"
+feature_row_advanced_interns:
+  - image_path: /assets/images/people/Conner.jpg
+    alt: "Conner"
+    title: "Conner Reed"
+    excerpt: "Advanced Research Intern"
+    url: " https://www.linkedin.com/in/conner-r-9362511b4/"
+    btn_label: "Meet Conner!"
     btn_class: "btn--primary"
+    
+feature_row_interns&REUs:
   - image_path: /assets/images/people/Charlie.jpg
     alt: "Charlie"
     title: "Charlie Shivers IV"
-    excerpt: "REU Student (Smithsonian Mason School of Conservation)"
+    excerpt: "Incoming Research Intern (summer 2027)"
     url: "https://www.linkedin.com/in/charlie-shivers-iv-707637320/"
     btn_label: "Meet Charlie!"
     btn_class: "btn--primary"
+    
+
 
 feature_row_RAs:
   - image_path: /assets/images/people/Luca.jpg
@@ -97,8 +108,10 @@ feature_row_RAs:
 
 {% include feature_row id="feature_row_gradstudents" %}
 
-# Interns & REU Students
-*Interns and REU students are working towards or have recently received their bachelor's degree and are gaining experience in forest ecology research as they explore future career options.*
+# Research Interns & REU Students
+*Research interns and REU students are gaining experience in forest ecology research as they explore future career options. Research Interns and REU students are working towards or have recently received their bachelor's degree, while advanced Research interns come in with significant experience (e.g., MS degree).*)
+
+{% include feature_row id="feature_row_advanced_interns" %}
 
 {% include feature_row id="feature_row_interns&REUs" %}
 
