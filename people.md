@@ -25,7 +25,7 @@ feature_row_employees:
   - image_path: /assets/images/people/Iris.jpg
     alt: "Iris"
     title: "Iris Kennedy"
-    excerpt: "Biolgoical Research Technician"
+    excerpt: "Biological Research Technician"
     url: "https://www.linkedin.com/in/iris-kennedy-89b8411a2/"
     btn_label: "Meet Iris!"
     btn_class: "btn--primary"
