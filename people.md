@@ -109,7 +109,7 @@ feature_row_RAs:
 {% include feature_row id="feature_row_gradstudents" %}
 
 # Research Interns & REU Students
-*Research interns and REU students are gaining experience in forest ecology research as they explore future career options. Research Interns and REU students are working towards or have recently received their bachelor's degree, while Advanced Research Interns come in with significant experience (e.g., MS degree).*)
+*Research interns and REU students are gaining experience in forest ecology research as they explore future career options. Research Interns and REU students are working towards or have recently received their bachelor's degree, while Advanced Research Interns come in with significant experience (e.g., MS degree).*
 
 {% include feature_row id="feature_row_advanced_interns" %}
 
