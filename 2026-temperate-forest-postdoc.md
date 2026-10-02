@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Visit / Join"
-permalink: /visit-join/
+permalink: /visit-join/2026-temperate-forest-postdoc/
 header:
   overlay_image: /assets/images/forest-header.jpg  # header image
   caption: "Photo credit: K.J. Anderson-Teixeira"
