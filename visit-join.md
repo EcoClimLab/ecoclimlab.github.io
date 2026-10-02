@@ -29,8 +29,7 @@ We have a partnership with the [Smithsonian - Mason School for Conservation (SMS
 ## Current Opportunities
 The following are paid opportunities. We do not take volunteers. 
 
-[**Postdoctoral Fellowship in Temperate Forest Biomass Dynamics – ForestGEO and GEO-TREES**](/visit-join/2026-temperate-forest-postdoc/) -
-coming soon!
+[**Postdoctoral Fellowship in Temperate Forest Biomass Dynamics – ForestGEO and GEO-TREES**](/visit-join/2026-temperate-forest-postdoc/) - Apply by October 26!
 
 [**Smithsonian Fellowships**](https://fellowships.si.edu/fellowship-programs) -
 Smithsonian offers fellowships for interns, graduate students, and postdoctoral fellows. Particularly relevant is the [Smithsonian Institution Fellowship Program (SIFP)](https://fellowships.si.edu/opportunity/smithsonian-institution-fellowship-program-sifp). Interested applicants should contact Dr. Anderson-Teixeira. 
