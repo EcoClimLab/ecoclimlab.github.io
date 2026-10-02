@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Visit / Join"
+title: "Smithsonian Postdoctoral Fellowship in Temperate Forest Biomass Dynamics – ForestGEO and GEO-TREES"
 permalink: /visit-join/2026-temperate-forest-postdoc/
 header:
   overlay_image: /assets/images/forest-header.jpg  # header image
