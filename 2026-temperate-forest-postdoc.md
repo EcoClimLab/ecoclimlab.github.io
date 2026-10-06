@@ -49,8 +49,15 @@ Answers to all questions (anonymized and generalized) will be posted below.
 
 ## Responses to questions
 
-**Is there an option for remote or hybrid work?** The postdoc needs to spend the majority of their time in the VA/DC/MD region, as interactions with the team here will be important.
+**Is there an option for remote or hybrid work?**
+The postdoc needs to spend the majority of their time in the VA/DC/MD region, as interactions with the team here will be important.
 Shorter periods of remote work and ad-hoc telework would be acceptable.
 There is more flexibility in splitting of time across the Smithsonian units involved (NZCBI, SERC, and ForestGEO (STRI) presence at the National Museum of Natural History in DC).
 We may consider requests to spend the majority of time at a different unit (e.g., living in DC/working at NMNH with frequent visits to Front Royal), but note that the SERC position that will interact most closely with this postdoc is currently [vacant](https://serc.si.edu/get-involved/job-opportunities/research-ecologist-temperate-forests-forestgeo-program).
+
+**What is the latest possible start date?**
+The funds supporting this are intended to be spent by December 31, 2028, making January 4, 2027 the ideal start date.
+However, we recognize that this is a tight timeline, and there is some flexibility built into the way the appointment is paid.
+There isn't a single defined "latest possible" date, but candidates wishing to start much after early January 2027 will be at some disadvantage,
+and very late start dates might start cutting into the total appointment length. 
 
