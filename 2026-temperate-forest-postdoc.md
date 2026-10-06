@@ -48,4 +48,9 @@ For further information, contact ForestGEO Ecosystems & Climate Program Lead, Kr
 Answers to all questions (anonymized and generalized) will be posted below.
 
 ## Responses to questions
-No questions yet.
+
+**Is there an option for remote or hybrid work?** The postdoc needs to spend the majority of their time in the VA/DC/MD region, as interactions with the team here will be important.
+Shorter periods of remote work and ad-hoc telework would be acceptable.
+There is more flexibility in splitting of time across the Smithsonian units involved (NZCBI, SERC, and ForestGEO (STRI) presence at the National Museum of Natural History in DC).
+We may consider requests to spend the majority of time at a different unit (e.g., living in DC/working at NMNH with frequent visits to Front Royal), but note that the SERC position that will interact most closely with this postdoc is currently [vacant](https://serc.si.edu/get-involved/job-opportunities/research-ecologist-temperate-forests-forestgeo-program).
+
