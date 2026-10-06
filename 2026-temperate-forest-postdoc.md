@@ -61,3 +61,6 @@ However, we recognize that this is a tight timeline, and there is some flexibili
 There isn't a single defined "latest possible" date, but candidates wishing to start much after early January 2027 will be at some disadvantage,
 and very late start dates might start cutting into the total appointment length. 
 
+## Further comments
+
+Also consider applying to the [Smithsonian Institution Fellowship Program (SIFP)](https://fellowships.si.edu/SIFP) - due Oct. 15.
