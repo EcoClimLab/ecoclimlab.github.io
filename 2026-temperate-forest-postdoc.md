@@ -63,7 +63,7 @@ and very late start dates might start cutting into the total appointment length.
 
 **Would a project integrating tree ring records, census data, and terrestrial lidar (for biomsas allometries) be a good fit?** 
 The focus on the climate-sensitivity of tree growth and implications for forest biomass accumulation is a big theme of interest in my lab.
-However, for this position we’re looking for someone whos main focus is linking census, lidar, and sattelite data (not necessarily all 3) to understand biomass dynamics.
+However, for this position we’re looking for someone whose main focus is linking census, lidar, and sattelite data (not necessarily all 3) to understand biomass dynamics.
 A project focused on understanding tree growth would have to have strong integration with lidar and important implications for understanding stand-level biomass dynamics.
 A hypothetical example might be using a combination of terrestrial lidar and biometric measurements (tape measurements or cores) to change our understanding of biomass production in large trees / the linkage of stem diameter increments to crown growth (as seen by lidar).
 A project in which the role of lidar is more of a methodological detail (e.g., improved biomass allometries) but not central to the main scientific questions (e.g., climate sensitivity of tree growth or forest productivity) wouldn’t be a good fit for this particular position.
