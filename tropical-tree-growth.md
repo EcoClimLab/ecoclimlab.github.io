@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Temperate GEO-TREES"
+title: "Tropical Tree Growth"
 classes: wide
 permalink: /research/tropical-tree-growth/
 header:
