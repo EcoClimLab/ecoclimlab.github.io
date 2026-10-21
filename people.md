@@ -51,7 +51,7 @@ feature_row_gradstudents:
     alt: "Jen"
     title: "Jennifer Jordan"
     excerpt: "Predoctoral Research Fellow (George Mason University, NZCBI)"
-    url: "https://www.linkedin.com/in/jen-jordan-4037193a/"
+    url: "https://jenajordan.github.io/"
     btn_label: "Meet Jen!"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/Elliot.jpg
