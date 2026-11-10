@@ -29,7 +29,7 @@ We have a partnership with the [Smithsonian - Mason School for Conservation (SMS
 ## Current Opportunities
 The following are paid opportunities. We do not take volunteers. 
 
-[**Postdoctoral Fellowship in Temperate Forest Biomass Dynamics – ForestGEO and GEO-TREES**](/visit-join/2026-temperate-forest-postdoc/) - Apply by October 26!
+[**Postdoctoral Fellowship in Temperate Forest Biomass Dynamics – ForestGEO and GEO-TREES**](/visit-join/2026-temperate-forest-postdoc/) - Currently accepting applications!
 
 [**Advanced Internship in Tropical Tree Growth – ForestGEO**](/visit-join/2026-tropical-dendro-intern/) - Coming soon!
 

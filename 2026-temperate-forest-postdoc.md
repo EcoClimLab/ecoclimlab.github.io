@@ -41,11 +41,22 @@ The postdoc will interact closely with ForestGEO and GEO-TREES collaborators at 
 The fellow will be awarded a stipend of $70,000/yr plus a $7,000/yr health coverage allowance and $5,000/yr research and travel allowance, with additional funds available to support the position at PI discretion.
 The position is funded for a minimum of two years, with potential for extension based on availability of funds. The starting date is flexible; earlier start dates are preferred.
 
-Closing date for applications is **26 October 2026**.
+**The deadline has been extended!** 
+We will give full consideration to any applications received by **20 November 2026** and continue accepting applications until the position is filled.
 To apply, send a single PDF file containing a cover letter including a statement of research interest, CV, contact information for three references, and three relevant publications or manuscripts to Isabella Valli, ForestGEO Program Assistant, ValliIE@si.edu.
 Please include the full position title in the subject line of the email. 
 For further information, contact ForestGEO Ecosystems & Climate Program Lead, Kristina Anderson-Teixeira, teixeirak@si.edu.
 Answers to all questions (anonymized and generalized) will be posted below.
+
+## Search status
+Beginning to review applications while continuing to accept new applications.
+
+## Further comments
+
+**Note on the deadline extension-**
+The original deadline for applications applications was 26 October 2026. 
+However, we believe that the advertisement did not have wide reach among qualified candidates.
+To ensure that interested candidates have the opportunity to apply, we will give full consideration to any applications received by **20 November 2026** and continue accepting applications until the position is filled.
 
 ## Responses to questions
 
@@ -63,12 +74,9 @@ and very late start dates might start cutting into the total appointment length.
 
 **Would a project integrating tree ring records, census data, and terrestrial lidar (for biomsas allometries) be a good fit?** 
 The focus on the climate-sensitivity of tree growth and implications for forest biomass accumulation is a big theme of interest in my lab.
-However, for this position we’re looking for someone whose main focus is linking census, lidar, and sattelite data (not necessarily all 3) to understand biomass dynamics.
+However, for this position we’re looking for someone whose main focus is linking census, lidar, and satellite data (not necessarily all 3) to understand biomass dynamics.
 A project focused on understanding tree growth would have to have strong integration with lidar and important implications for understanding stand-level biomass dynamics.
 A hypothetical example might be using a combination of terrestrial lidar and biometric measurements (tape measurements or cores) to change our understanding of biomass production in large trees / the linkage of stem diameter increments to crown growth (as seen by lidar).
 A project in which the role of lidar is more of a methodological detail (e.g., improved biomass allometries) but not central to the main scientific questions (e.g., climate sensitivity of tree growth or forest productivity) wouldn’t be a good fit for this particular position.
 People with such a vision are still welcome to apply, but such a project would be on the margins of the allowable scope and unlikely to rise to the top of a competitive applicant pool.
 
-## Further comments
-
-Also consider applying to the [Smithsonian Institution Fellowship Program (SIFP)](https://fellowships.si.edu/SIFP) - due Oct. 15.
