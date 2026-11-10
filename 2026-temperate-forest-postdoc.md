@@ -43,7 +43,7 @@ The position is funded for a minimum of two years, with potential for extension 
 
 **The deadline has been extended!** 
 We will give full consideration to any applications received by **20 November 2026** and continue accepting applications until the position is filled.
-To apply, send a single PDF file containing a cover letter including a statement of research interest, CV, contact information for three references, and three relevant publications or manuscripts to Isabella Valli, ForestGEO Program Assistant, ValliIE@si.edu.
+To apply, send a single PDF file containing a cover letter including a statement of research interest, CV, contact information for three references, and three relevant publications or manuscripts to Kristina Anderson-Teixeira, teixeirak@si.edu.
 Please include the full position title in the subject line of the email. 
 For further information, contact ForestGEO Ecosystems & Climate Program Lead, Kristina Anderson-Teixeira, teixeirak@si.edu.
 Answers to all questions (anonymized and generalized) will be posted below.
