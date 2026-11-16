@@ -47,11 +47,15 @@ These expectations apply to all lab members, visitors, and affiliates during any
 
 
 # Join us!
-[Our lab](/people/) includes researchers at a variety of career stages.
-Full-time research trainees include interns, who range in career stage from advanced undergraduates to recent master's degree graduates, and postdoctoral researchers.
+[Our lab](/people/) brings together researchers and trainees at a variety of career stages, creating opportunities for mentorship, collaboration, and professional development.
+Full-time research trainees include postdoctoral researchers and interns, ranging in career stage from advanced undergraduates to recent master's degree graduates.
+
 We also partner with degree-granting institutions to mentor graduate students conducting research in collaboration with the lab. 
-When it comes to undergraduates, we have a partnership with the [Smithsonian - Mason School for Conservation (SMSC)](https://smconservation.gmu.edu/) and regularly mentor SMSC practicum students and summer REU students.
-All positions are paid; we do not offer unpaid volunteer positions. 
+
+Our undergraduate mentorship opportunities include an established partnership with the [Smithsonian - Mason School for Conservation (SMSC)](https://smconservation.gmu.edu/).
+We regularly mentor SMSC practicum students and summer Research Experiences for Undergraduates (REU) participants.
+
+We are committed to providing paid research opportunities. All positions are paid; we do not offer unpaid volunteer positions. 
 
 ## Current Opportunities
 
