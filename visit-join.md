@@ -25,6 +25,7 @@ header:
     style="border:0; border-radius:12px;"
     loading="lazy"
     allowfullscreen>
+    referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 
   <p>
@@ -37,15 +38,6 @@ header:
 </section>
 
 
-**ADDRESS:**
-
-Smithsonian Conservation Biology Institute
-
-1500 Remount Rd. MRC 5535
-
-Front Royal, VA 22630 USA
-
-<!--insert map-->
 
 # Code of Conduct
 This lab adheres to the [ForestGEO Code of Conduct](https://forestgeo.si.edu/what-forestgeo/code-conduct) and the NZCBI expectations of conduct for field work (document available upon request). All lab members and affiliates are expected to abide by this Code of Conduct during any activities in which they are associated with the lab.
