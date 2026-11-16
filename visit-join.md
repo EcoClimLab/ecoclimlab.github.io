@@ -19,20 +19,21 @@ header:
 
 
   <iframe
-    src="https://www.google.com/maps?q=38.8884866,-78.1625582&z=17&output=embed"
+    src="https://www.google.com/maps?q=38.8884866,-78.1625582&z=17&t=k&output=embed"
     width="100%"
-    height="400"
+    height="450"
     style="border:0; border-radius:12px;"
+    allowfullscreen
     loading="lazy"
-    allowfullscreen>
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 
   <p>
-    <a href="https://www.google.com/maps?q=38.8884866,-78.1625582&z=17&output=embed"
-       target="_blank"
-       rel="noopener noreferrer">
-      📍 Open in Google Maps / Get Directions
+    <a
+      href="https://www.google.com/maps/place/Conservation+Dr+%26+Research+Dr,+Virginia+22630/@38.8884907,-78.1651385,17z/data=!3m1!4b1"
+      target="_blank"
+      rel="noopener noreferrer">
+      📍 Open in Google Maps
     </a>
   </p>
 </section>
