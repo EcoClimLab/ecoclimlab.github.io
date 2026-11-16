@@ -9,6 +9,34 @@ header:
 
 # Contact Info
 
+<section class="location">
+  <h2>Visit the ForestGEO Lab at the Smithsonian Conservation Biology Institute</h2>
+
+  <p>
+    <strong>Address:</strong>
+    1500 Remount Rd.; Front Royal, VA 22630 USA
+  </p>
+
+
+  <iframe
+    src="https://www.google.com/maps?q=38.8884866,-78.1625582&z=17&output=embed"
+    width="100%"
+    height="400"
+    style="border:0; border-radius:12px;"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+
+  <p>
+    <a href="https://www.google.com/maps?q=38.8884866,-78.1625582&z=17&output=embed"
+       target="_blank"
+       rel="noopener noreferrer">
+      📍 Open in Google Maps / Get Directions
+    </a>
+  </p>
+</section>
+
+
 **ADDRESS:**
 
 Smithsonian Conservation Biology Institute
