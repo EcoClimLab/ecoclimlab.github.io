@@ -7,10 +7,14 @@ header:
   caption: "Photo credit: K.J. Anderson-Teixeira"
 ---
 
-# Contact Info
+# Code of Conduct
+This lab adheres to the [ForestGEO Code of Conduct](https://forestgeo.si.edu/what-forestgeo/code-conduct) and the [NZCBI expectations of conduct for field work](expectation_of_conduct_for_field_work_nzcbi_june_2022.pdf).
+All lab members, visitors, and affiliates are expected to abide by these expectations during any activities in which they are associated with the lab.
+
+# Visit
 
 <section class="location">
-  <h2>Visit the ForestGEO Lab at the Smithsonian Conservation Biology Institute</h2>
+  <h2>ForestGEO Lab at the Smithsonian Conservation Biology Institute</h2>
 
   <p>
     <strong>Address:</strong>
@@ -39,11 +43,7 @@ header:
 </section>
 
 
-
-# Code of Conduct
-This lab adheres to the [ForestGEO Code of Conduct](https://forestgeo.si.edu/what-forestgeo/code-conduct) and the NZCBI expectations of conduct for field work (document available upon request). All lab members and affiliates are expected to abide by this Code of Conduct during any activities in which they are associated with the lab.
-
-# FOR PROSPECTIVE LAB MEMBERS
+# Join us!
 The ForestGEO Ecosystems & Climate lab at the Smithsonian Conservation Biology Institute (Front Royal, VA) includes postdocs, interns (most of whom have a BS and sometimes an MS), and other professionals/ academics.
 We have a partnership with the [Smithsonian - Mason School for Conservation (SMSC)](https://smconservation.gmu.edu/) and regularly benefit from the participation of SMSC practicum students and REU's.
 
