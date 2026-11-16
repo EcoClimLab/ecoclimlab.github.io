@@ -7,12 +7,15 @@ header:
   caption: "Photo credit: K.J. Anderson-Teixeira"
 ---
 
-# Code of Conduct
-This lab adheres to the [ForestGEO Code of Conduct](https://forestgeo.si.edu/what-forestgeo/code-conduct) and the [NZCBI expectations of conduct for field work](/assets/docs/expectation_of_conduct_for_field_work_nzcbi_june_2022.pdf).
-All lab members, visitors, and affiliates are expected to abide by these expectations during any activities in which they are associated with the lab.
+# Community Values & Expectations
+The ForestGEO Ecosystems & Climate lab at the Smithsonian Conservation Biology Institute (Front Royal, VA) strives to be
+an inclusive, welcoming, and collaborative research environment where researchers from diverse backgrounds and at different career stages
+collaborate to advance forest research and conservation.
+This lab adheres to the [ForestGEO Code of Conduct](https://forestgeo.si.edu/what-forestgeo/code-conduct)
+and the [NZCBI expectations of conduct for field work](/assets/docs/expectation_of_conduct_for_field_work_nzcbi_june_2022.pdf).
+These expectations apply to all lab members, visitors, and affiliates during any activities in which they are associated with the lab.
 
 # Visit
-
 <section class="location">
   <h2>ForestGEO Lab at the Smithsonian Conservation Biology Institute</h2>
 
@@ -44,11 +47,13 @@ All lab members, visitors, and affiliates are expected to abide by these expecta
 
 
 # Join us!
-The ForestGEO Ecosystems & Climate lab at the Smithsonian Conservation Biology Institute (Front Royal, VA) includes postdocs, interns (most of whom have a BS and sometimes an MS), and other professionals/ academics.
-We have a partnership with the [Smithsonian - Mason School for Conservation (SMSC)](https://smconservation.gmu.edu/) and regularly benefit from the participation of SMSC practicum students and REU's.
+[Our lab](/people/) includes researchers at a variety of career stages.
+Full-time research trainees include interns, who range in career stage from advanced undergraduates to recent master's degree graduates, and postdoctoral researchers.
+We also partner with degree-granting institutions to mentor graduate students conducting research in collaboration with the lab. 
+When it comes to undergraduates, we have a partnership with the [Smithsonian - Mason School for Conservation (SMSC)](https://smconservation.gmu.edu/) and regularly mentor SMSC practicum students and summer REU students.
+All positions are paid; we do not offer unpaid volunteer positions. 
 
 ## Current Opportunities
-The following are paid opportunities. We do not take volunteers. 
 
 [**Postdoctoral Fellowship in Temperate Forest Biomass Dynamics – ForestGEO and GEO-TREES**](/visit-join/2026-temperate-forest-postdoc/) - Currently accepting applications!
 
