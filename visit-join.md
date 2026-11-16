@@ -8,7 +8,7 @@ header:
 ---
 
 # Code of Conduct
-This lab adheres to the [ForestGEO Code of Conduct](https://forestgeo.si.edu/what-forestgeo/code-conduct) and the [NZCBI expectations of conduct for field work](expectation_of_conduct_for_field_work_nzcbi_june_2022.pdf).
+This lab adheres to the [ForestGEO Code of Conduct](https://forestgeo.si.edu/what-forestgeo/code-conduct) and the [NZCBI expectations of conduct for field work](/assets/docs/expectation_of_conduct_for_field_work_nzcbi_june_2022.pdf).
 All lab members, visitors, and affiliates are expected to abide by these expectations during any activities in which they are associated with the lab.
 
 # Visit
