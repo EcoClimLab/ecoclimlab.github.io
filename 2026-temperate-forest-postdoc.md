@@ -60,6 +60,12 @@ To ensure that interested candidates have the opportunity to apply, we will give
 
 ## Responses to questions
 
+**Can I submit a late application?**
+Yes! 
+We guarantee full consideration for any applications received by the **20 November 2026** deadline, but will continue accepting applications until the position is filled.
+Late applications will be at a disadvantage once the search moves beyond the initial review.
+If you wish to submit more than a week past the initial deadline, please check the "Search status" on this page to see whether it is too late. 
+
 **Is there an option for remote or hybrid work?**
 The postdoc needs to spend the majority of their time in the VA/DC/MD region, as interactions with the team here will be important.
 Shorter periods of remote work and ad-hoc telework would be acceptable.
@@ -72,7 +78,7 @@ However, we recognize that this is a tight timeline, and there is some flexibili
 There isn't a single defined "latest possible" date, but candidates wishing to start much after early January 2027 will be at some disadvantage,
 and very late start dates might start cutting into the total appointment length. 
 
-**Would a project integrating tree ring records, census data, and terrestrial lidar (for biomsas allometries) be a good fit?** 
+**Would a project integrating tree ring records, census data, and terrestrial lidar (for biomass allometries) be a good fit?** 
 The focus on the climate-sensitivity of tree growth and implications for forest biomass accumulation is a big theme of interest in my lab.
 However, for this position we’re looking for someone whose main focus is linking census, lidar, and satellite data (not necessarily all 3) to understand biomass dynamics.
 A project focused on understanding tree growth would have to have strong integration with lidar and important implications for understanding stand-level biomass dynamics.
