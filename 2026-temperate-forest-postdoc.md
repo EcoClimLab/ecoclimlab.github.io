@@ -49,7 +49,7 @@ For further information, contact ForestGEO Ecosystems & Climate Program Lead, Kr
 Answers to all questions (anonymized and generalized) will be posted below.
 
 ## Search status
-Beginning to review applications while continuing to accept new applications.
+Reviewing applications. New applications will still be accepted but may be at a disadvantage. 
 
 ## Further comments
 
